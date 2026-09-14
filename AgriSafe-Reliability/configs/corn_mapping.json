@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "source_dataset": "PlantVillage raw/color",
+  "target_dataset": "PlantDoc train+test, evaluation only",
+  "classes": [
+    {
+      "id": 0,
+      "canonical": "gray_leaf_spot",
+      "plantvillage": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+      "plantdoc": "Corn Gray leaf spot"
+    },
+    {
+      "id": 1,
+      "canonical": "northern_leaf_blight",
+      "plantvillage": "Corn_(maize)___Northern_Leaf_Blight",
+      "plantdoc": "Corn leaf blight"
+    },
+    {
+      "id": 2,
+      "canonical": "common_rust",
+      "plantvillage": "Corn_(maize)___Common_rust_",
+      "plantdoc": "Corn rust leaf"
+    }
+  ],
+  "excluded": {
+    "plantvillage": ["Corn_(maize)___healthy"],
+    "reason": "PlantDoc has no matching healthy corn class. Excluding it prevents label-space mismatch from masquerading as visual domain shift."
+  },
+  "target_usage_rule": "PlantDoc labels are used only as held-out field-evaluation ground truth. They are not used for source training, model selection, temperature fitting, confidence-threshold selection, or conformal calibration."
+}
