@@ -1,0 +1,4 @@
+task,source_accuracy,field_accuracy,source_only_field_coverage_nominal_0.90
+Corn->PlantDoc,0.9628,0.5159574468085106,0.44779324847423324
+Corn->PlantWild,0.9628,0.45794392523364486,0.3921216563596993
+Apple->PlantDoc,1.0,0.6410256410256411,0.2579538613750428
