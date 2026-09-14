@@ -1,0 +1,4 @@
+Task,Crop/classes,Source n,Target raw n,Primary target n,Exact-duplicate/conflict audit,Notes
+PlantVillage corn → PlantDoc corn,Corn: gray leaf spot / northern leaf blight / rust,2690,376,376,No exclusion in frozen PlantDoc target,Controlled→field target
+PlantVillage corn → PlantWild corn,Corn: gray leaf spot / northern leaf blight / rust,2690,677,642,20 exact duplicate groups; 15 cross-label conflict groups removed; same-label exact duplicates collapsed,Primary-clean PlantWild target
+PlantVillage apple → PlantDoc apple,Apple: healthy / scab / cedar rust,2550,273,273,0 exact target duplicate groups; 0 cross-label conflicts,Independent crop task
