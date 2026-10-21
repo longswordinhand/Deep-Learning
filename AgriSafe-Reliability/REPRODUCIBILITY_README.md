@@ -1,12 +1,13 @@
 # AgriSafe PRL reproducibility bundle
 
 ## Scope
-This bundle supports the manuscript **Validity-First Field-Label Budgeting for Reliable Plant Disease Recognition under Distribution Shift**. It contains frozen protocol documents, target/source split manifests, experiment scripts, publication result JSON files, and figure/table source data. Raw public datasets and cached DINOv2 feature arrays are intentionally not redistributed.
+This bundle supports the manuscript **Validity-First Allocation of Field Labels for Reliable Plant Disease Recognition under Distribution Shift**. It contains frozen protocol documents, target/source split manifests, experiment scripts, publication result JSON files, and figure/table source data. Raw public datasets and cached DINOv2 feature arrays are intentionally not redistributed.
 
 ## Public datasets
 - PlantVillage: curated source images.
 - PlantDoc: real-field target images for corn and apple.
 - PlantWild: real-field target images for corn. The primary analysis uses the audited `primary_clean` subset described in the integrity documents and manifest.
+- PlantDoc corn received the same predeclared exact-file audit on 2026-10-21: three byte-identical cross-label conflict pairs (6 files) were excluded as unknowable, leaving a 370-image primary target (`plantdoc_corn_manifest.csv`). All publication artifacts were regenerated after the exclusion.
 
 Obtain each dataset from its original provider and preserve the sample identities in the supplied manifests.
 
@@ -20,7 +21,7 @@ Obtain each dataset from its original provider and preserve the sample identitie
 ## Publication protocol
 1. Create five deterministic target folds from path hashes.
 2. Hold one target fold out for evaluation.
-3. For joint budgeting, randomly reserve calibration examples **before** active adaptation selection.
+3. For joint allocation, randomly reserve calibration examples **before** active adaptation selection.
 4. Restrict active adaptation selection to the remaining candidate pool.
 5. Fit the adapted source+target linear probe.
 6. Calibrate split-conformal prediction sets on the reserved target calibration sample.
@@ -52,3 +53,14 @@ The project was executed on Linux with Python, NumPy, scikit-learn, PyTorch, Tra
 
 ## Manuscript-number provenance
 The submission PDFs should be checked against the JSON/CSV artifacts in this bundle. The bundle supports the submitted analysis but does not redistribute third-party image datasets.
+
+## Regeneration note (2026-10-21)
+
+All result JSONs, tables, and figures in this bundle were regenerated on 2026-10-21
+after the PlantDoc-corn exclusion, in the environment recorded in `environment.txt`
+(Python 3.12.10, scikit-learn 1.9.0, numpy 2.4.6, scipy 1.17.1). Label budgets are
+per cross-fitting fold. The exploratory reserve-order comparison behind main-text
+Section 4.5 is tabulated in the supplement (Table S3) from
+`phase7_car_budget_rule.json` and `phase9_calibration_first_partition.json`.
+A pre-submission kill audit (2026-10-20) and its fix pass (2026-10-21) are documented
+in the submission package.

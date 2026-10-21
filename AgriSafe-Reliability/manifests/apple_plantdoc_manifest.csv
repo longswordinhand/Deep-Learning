@@ -1,0 +1,274 @@
+path,label,original_split,sha256,primary_clean
+data/raw/plantdoc/train/Apple leaf/20130519yellowingappleleaves.jpg,0,train,042c494d1269cbd01f19abac55767e331b6c70f9e45b4a56918fcb734ead4cc3,1
+data/raw/plantdoc/train/Apple leaf/2017-09-23-07-48-04.jpg,0,train,49c89db2ce84744a9c75dfbdd5ced9908adbe058a69b469db9ee73acda29a06d,1
+data/raw/plantdoc/train/Apple leaf/4633813-sweet-apple-with-leaf.jpg,0,train,b212583a13116214c67291bd9c56dc8f06fdda1a941a50e07003a2478945ba83,1
+data/raw/plantdoc/train/Apple leaf/Apple-Leaves-Diabetes.jpg,0,train,25d36f499f8e21d58710e83d534eae8946bd651c85dc05f2913b96c5bc1e058a,1
+data/raw/plantdoc/train/Apple leaf/AppleLeavesInRain.jpg,0,train,5cf8134d8eb0f1f67e47084ea2ce4d901534cf2131c0cc4e5164eb2af44c7999,1
+data/raw/plantdoc/train/Apple leaf/Apple_tree_leaf_J1.jpg,0,train,126f2d942d19ea9ed330dad07edfd04d99f875b5335cd66bc17d1a0c490f31de,1
+data/raw/plantdoc/train/Apple leaf/CRABAPPLE2_leaves.jpg,0,train,656da038e40c40317431febc37a8f550854ec27aa9f2a9e9c291ed74a89bfd2c,1
+data/raw/plantdoc/train/Apple leaf/CRABAPPLE3_leaves.jpg,0,train,e6d5b7a4028836ae2d19145999485c68c3b10e3e30b645dde1a06ad09105bb44,1
+data/raw/plantdoc/train/Apple leaf/CRABAPPLE_leaves.jpg,0,train,b41352bb861923bd3916f1b53f33e786e5f23530c23b9e1ffa2932cbbccfdb45,1
+data/raw/plantdoc/train/Apple leaf/Crab-Apple-%28Malus-Sylvestris%29-Leaf.jpg,0,train,4fba8727e6bc885592cdea47865f6eb4a1371cf52a3a96e5fd5e2b7f0b66830e,1
+data/raw/plantdoc/train/Apple leaf/Dwarf-Apple-Pink-Lady-2545.jpeg.jpg,0,train,1a683b051f9a76d5ebac4578af1a853ce7fd4272801f5015d1c1d6a3b6adb794,1
+data/raw/plantdoc/train/Apple leaf/June%2B2010%2B022.JPG.jpg,0,train,7fdc317e6da7505dcb46754b12dfd1063bf02a85e9d96917d1fe37fbf9b41edf,1
+data/raw/plantdoc/train/Apple leaf/Malus+sylvestris+-+Crab+Apple+04.jpg,0,train,768acc5648de8bb113af22bd64e784281363d84d7551c2d463acf22fcc9ec746,1
+data/raw/plantdoc/train/Apple leaf/apple-tree-branch-blossom-plant-fruit-berry-leaf-flower-food-green-produce-evergreen-flora-sad-shrub-apples-branch-with-apples-flowering-plant-rose-family-acerola-malpighia-woody-plant-land-plant-928225.jpg,0,train,e52a82c951cc29dbc07eeadaa8044a57977acf0f3cfd95df6cda85ecc7dd427e,1
+data/raw/plantdoc/train/Apple leaf/apple-tree-branch-green-leaves-fresh-isolated-white-background-33032922.jpg,0,train,8d2406c62b85ce77c5f8b4365f199394e2dc0b381776c891d88130f158e06c4d,1
+data/raw/plantdoc/train/Apple leaf/apple-tree-branch-green-leaves-fresh-isolated-white-background-33032924.jpg,0,train,f9904c551eb30a96346267050895d8e46e6ae7be454d63a80c74c0c7de5b32b3,1
+data/raw/plantdoc/train/Apple leaf/apple-tree-branch-plant-fruit-leaf-flower-food-green-produce-flora-immature-apple-tree-flowering-plant-wild-apple-tree-apple-gear-land-plant-606389.jpg,0,train,af5db389e972445416fc4c5acb49588b268bc2c57082993dd88ff5b230a59a47,1
+data/raw/plantdoc/train/Apple leaf/apple-tree-leaf-curl-apple-tree-leaf-curl-aphids-apple-tree-leaves-curling-too-much-water.jpg,0,train,2716f57a77ebff6e90c2557a461db80ce096072009f99e03dc3531c6cd56216f,1
+data/raw/plantdoc/train/Apple leaf/apple-tree-leaves.jpg,0,train,fd78b5465bbef6d34b86805a9270c07b4356380ea3cb2c4ba51368eda95b641c,1
+data/raw/plantdoc/train/Apple leaf/appleleaf+trial+007.JPG.jpg,0,train,700d2c5ad408c6315097321b780b21014c78c156f91461e0c6366dfd57ba6ead,1
+data/raw/plantdoc/train/Apple leaf/apples_silver-leaf_04_zoom.jpg,0,train,baf6b575a7c4bc7786353a1d920a3df1198d9017383b18426e60e61e90ce6189,1
+data/raw/plantdoc/train/Apple leaf/autumn-red-apple-leaves.jpg,0,train,a576a0f9529d27c7226bcf911f5b85377212c1f3828310c9d9b6b71f1300b642,1
+data/raw/plantdoc/train/Apple leaf/bright-red-crab-apple-fruit-malus-john-downie-on-the-tree-in-late-KH3WRX.jpg,0,train,b4ee959c70cca6cb83985f8dc4424a8850bc9874bbdea4851fdd591fa67e3f7e,1
+data/raw/plantdoc/train/Apple leaf/closeup-red-apple-fruit-leaf-isolated-white-background-57605895.jpg,0,train,9c5f18a31156f524ca2099bb869a0da9ac33a99aeec4b0197d96c9b1af95990f,1
+data/raw/plantdoc/train/Apple leaf/crab_apple_03_leaves.jpg,0,train,37f47dd0d47beb8505434383e35cdc6bd953cad9526657990239019b0dc6b4e9,1
+data/raw/plantdoc/train/Apple leaf/depositphotos_27383223-stock-photo-apple-leaves.jpg,0,train,875ff171f97f298aa941aa4b5e723d46c38b0947a1ba5d1af0375d76eea619f3,1
+data/raw/plantdoc/train/Apple leaf/depositphotos_30057617-Green-leaf-of-apple-tree.jpg,0,train,8f138f42b89fd37fdadf24cb1af94d01360bf9748b4d0cf9a467e9d45aee8a54,1
+data/raw/plantdoc/train/Apple leaf/depositphotos_4505396-Green-apple-leaf.jpg,0,train,0f66980b44992ab4a7137123ff3f20761572363372d186950ea5400d87b6bc87,1
+data/raw/plantdoc/train/Apple leaf/depositphotos_45748597-stock-photo-ripe-apple-with-leaf.jpg,0,train,425ae277558dec7e8867853fb0acbcef2656b8e8cf746d3fc2771130bb73382c,1
+data/raw/plantdoc/train/Apple leaf/depositphotos_55202179-stock-photo-green-apple-with-leaf-and.jpg,0,train,dd588b7bac18956540afc6f3936791aea133df73813eead1161b2d584b95c49f,1
+data/raw/plantdoc/train/Apple leaf/depositphotos_56066889-stock-photo-apple-with-leaf.jpg,0,train,11e99b6916a27656ee527644d56e2b595aad26b13a342f4dac6ad36d4fcde480,1
+data/raw/plantdoc/train/Apple leaf/depositphotos_6657863-stock-photo-single-red-apple-with-leaf.jpg,0,train,fb5c1bc0761f6738948a88d5de6400677f3a9fa9f1f5ed5384fbb64712b3a444,1
+"data/raw/plantdoc/train/Apple leaf/flat,1000x1000,075,f.u2.jpg",0,train,3f623bd114fb79e168a3f3b288d3ee82471de9012addaa83fc74587efa662ac1,1
+data/raw/plantdoc/train/Apple leaf/fresh-wet-green-apple-leaf-water-drops-isolated-white-background-31353097.jpg,0,train,b27d33ca3e24e8dd89e9f36ff89b634a0118e2f968f0a501176560a0f05002d9,1
+data/raw/plantdoc/train/Apple leaf/fruit_apple_apple-tree_wallpaper_EA60026.jpg,0,train,638353f0a8a8a555ab1fa6d26430f88f8ee1b23cac80bba612a3dcdb176c79b2,1
+data/raw/plantdoc/train/Apple leaf/green-apple-fruits-leaf-16266077.jpg,0,train,7ab840d017ebdf580b242733281c56f1486ea91d1553f6408a592702be56adb3,1
+data/raw/plantdoc/train/Apple leaf/green-apple-fruits-leaf-25050127.jpg,0,train,9b5d24ef6d7ddbcc3dde400e629ce969796987daa656a2b7258183cf692a77ea,1
+data/raw/plantdoc/train/Apple leaf/green-apple-leaf-26110796.jpg,0,train,dd31b66204cb00d9cefe1fd2507e75dee0360b8c945cee5bd2076005a058e3b4,1
+data/raw/plantdoc/train/Apple leaf/green-apple-leaf-cut-white-ripe-background-clipping-path-42422046.jpg,0,train,bd7683a5195112218f1059bd88e75d2bcb198db454680c1f7a4137ffd4ef358e,1
+data/raw/plantdoc/train/Apple leaf/green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-42352971.jpg,0,train,0ca57fb7d9c6fce9e4344baaf9c9069c0335daf3681a4f8be0ef81e9f53b80bd,1
+data/raw/plantdoc/train/Apple leaf/green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-44598638.jpg,0,train,0d06af331beac2152035652f932e71bddfca632e2b68ec6099ed19d0e1f15116,1
+data/raw/plantdoc/train/Apple leaf/green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-45471482.jpg,0,train,cb133cc72c32093b7680bc46c92138fdbe91a0b320cfc9dcac09df78d1c80731,1
+data/raw/plantdoc/train/Apple leaf/green-apple-leaf-white-background-33503979.jpg,0,train,bce97baf47d340c4f2db2739b96573964b91d368e5f62f4cb2c83fd5dbfa9484,1
+data/raw/plantdoc/train/Apple leaf/green-leaf-apple-tree-14300049.jpg,0,train,60a3928ca7e1856fe3787f246793db6acad0587a74288937b8dd6feeb40f1698,1
+data/raw/plantdoc/train/Apple leaf/green-leaf-apple-tree-isolated-white-background-33032695.jpg,0,train,60cad750de450fc03132efca9546fa18dc0e94c3440e34fe9bfacacbf4966e42,1
+data/raw/plantdoc/train/Apple leaf/green-leaf-picture-id177130309?b=1&k=6&m=177130309&s=612x612&w=0&h=VP3U0AM5j0fvQqOwuI5f7cmb2Ji88mVep0eoXQaJRfs=.jpg,0,train,3be0a0af905f5adee78fa2ecff5ea266280f2ad71e1dac1d1ad44625146028b3,1
+data/raw/plantdoc/train/Apple leaf/grow-an-apple-tree-from-seed-in-singapore-img5.jpg,0,train,027582ee39bc1459608593b2f271c7f3154a9b57a205050e09634a6f5d81aee0,1
+data/raw/plantdoc/train/Apple leaf/leaf-apple-tree-one-green-isolated-41556482.jpg,0,train,b9c52da30d8de9242414f288edd23857532ae9114087c3e59913a5b384bc9370,1
+data/raw/plantdoc/train/Apple leaf/leaves-isolated-on-white-background-picture-id537925565?k=6&m=537925565&s=612x612&w=0&h=Ogzc4YHTI4i4q9aiTIG6Zq2sAMv6xTKiDlCmYANlzK8=.jpg,0,train,48ec650aef488dee064104304d2a4c9f904a90357bbee6870eb3d608b76e6d55,1
+data/raw/plantdoc/train/Apple leaf/malus-floribunda-le-amoro2-a.jpg,0,train,5f1bbe8c70d58f4e1f6940fcc33bfb28f64b961e355544f0cc2444fd9980c0b6,1
+data/raw/plantdoc/train/Apple leaf/red-apple-green-leaf-isolated-white-background-57496220.jpg,0,train,ec1f07da29af4812d0abee7b074614de3eba0c73b302bd6daf56bee9a6746ccc,1
+data/raw/plantdoc/train/Apple leaf/red-apple-leaf-slice-white-background-29914331.jpg,0,train,898bafa6a392794d417d91cef8088fe78e2372db508539eccd259c2b42329a1a,1
+data/raw/plantdoc/train/Apple leaf/red-apple-leaves-309078.jpg,0,train,2a42229abdcdae25b98342e09ca3f138d75065eac96e9339c9f254ffbc625723,1
+data/raw/plantdoc/train/Apple leaf/red-apple-one-leaf-13226302.jpg,0,train,50d7d6e707285ec90b916fc7e9afb37491e66d29f89ad59673bb6905f7313f9f,1
+data/raw/plantdoc/train/Apple leaf/ripe-red-apple-with-green-leaf-isolated-on-white-picture-id184640296?s=612x612.jpg,0,train,aae835b54a26274ba919a959335a81e7034a54242740863be0705f192bbe77ce,1
+data/raw/plantdoc/train/Apple leaf/ripe-red-apple-with-leaf-picture-id117485645?b=1&k=6&m=117485645&s=612x612&w=0&h=Ii96HYzF-2E5ky-IcXbVhvEFvU28o0rlkwagb7T6LhY=.jpg,0,train,dbabc35b2c20160f610901a5dfb6823b2e07c0a61dcc338cde1f54528afd0eb3,1
+data/raw/plantdoc/train/Apple leaf/shiny-red-apple-green-leaf-isolated-white-background-56202743.jpg,0,train,88cb3ee75ba3f7d4a66decf6a18295d35e153738b5b00800c868522f6ef211d2,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaf-isolated-on-white-background-287560226.jpg,0,train,500c1359d80ef6d5c97f5c1413ba14a9e5cadd05a6816634cdb110ebae91e2a6,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaf-set-isolated-on-white-background-300957002.jpg,0,train,b2fc37c6be612b2aaf5eab1be46e45840e7ea058b3dad085bedbf0a8f7559505,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaves-collection-isolated-on-white-background-373945045.jpg,0,train,6b47897ffd316e2df1247ba213b2fd9e8136c38003781152e1e5820c4a297d05,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaves-isolated-on-a-white-background-leaf-from-an-apple-tree-cut-from-background-520909219.jpg,0,train,8d16827fb5981617d0995266f5507507e9fe2411a16d975f7114da563ed9a147,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaves-isolated-on-the-white-background-729570907.jpg,0,train,c1df7c3d5fbd0c5de1f7b783a77d8819baeb22b37de613d1d15655a3151ec195,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaves-isolated-on-white-background-232913425.jpg,0,train,fa1fa8eb008b33fe2aa3b6313d18172539d2338d73a7ba7b61503ef366514d33,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaves-isolated-on-white-background-295979933.jpg,0,train,4fc060d1fe9f1c31ef60247346ac400a4fabebb7f73cca7785191f56f450700e,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaves-isolated-on-white-background-326520134.jpg,0,train,fedeae85d5ac5e39b6f5f0eba63de7de43143a9828f7d08e0e1c27cd1bb8241b,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaves-isolated-on-white-collection-197880929.jpg,0,train,c003892e6af6bab0df233336605c46766fa1a7ad99ba3ea7394c345205ab0dd3,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-leaves-set-isolated-on-white-271652246.jpg,0,train,5603f35d4b9e1687f7dab3f03cf2497969443d51d8da5075df2b4e849b130d35,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-apple-tree-leaf-isolated-on-a-white-622503302.jpg,0,train,675c4649d143237ca8cd7240c333ac85b682cf785873ee5dcc6e60461984c51b,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-fresh-apple-leaf-isolated-on-white-collection-407823346.jpg,0,train,cfd77bcca9331d528c2003f4060d9b558b285ae304b3d473ef320d2fa9680ed7,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-green-apple-leaf-clipping-path-258728936.jpg,0,train,71dc6666eac525752a1d4d8e286a1d278370d98322705f3efb44454e872c21cb,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-green-apple-leaf-isolated-on-white-with-clipping-path-195130079.jpg,0,train,ff337957dc98f0f7755c92fce03764d315c148337cb10c589ab94f2cf376e110,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-green-apple-leaves-on-the-white-background-796491496.jpg,0,train,834e487aa269b2e9cf7bda403ba732061b8fdb7ef57e88cac1cdda4bd7d2874f,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-isolated-apple-green-granny-smith-apple-with-leaf-isolated-on-white-background-60343762.jpg,0,train,886f933d733e7e6bfd71ea83dd1b64999a5ffdd14c00b77a8e307ca0d216801f,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-one-green-leaf-of-apple-tree-isolated-on-white-background-close-up-studio-photography-102522179.jpg,0,train,b3643edbcaf7a875a854531bc4bea0fc5c99cd41e9a78f82a089fe270a4e6ca6,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-red-apple-with-green-leaf-isolated-on-white-background-with-clipping-path-327512429.jpg,0,train,297857e012243d3f404962faad16f1c234f023e011d2ebc9cd73cf23ec289b95,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-red-apple-with-leaf-124592107.jpg,0,train,1c738982c5c0f9de877c766912c692b4d11c8ec68cb0a04f445ee6f112463545,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-red-apple-with-leaf-138430751.jpg,0,train,1c442d9bbb74f16f1e10a135982b2b0130d28b2c717ac4415e0ba9764fdf7b46,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-red-apple-with-leaves-isolated-on-white-99003845.jpg,0,train,3f986b9fc4f30d36b91cddc84d31fafffa8d1a20b16ac8c2109c2dbcf6b00a24,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-sweet-apple-with-leaf-111143150.jpg,0,train,79ae28b992e2a0058590d81415cc57de85f47afa9fbfc144f505152b8a2c7ffe,1
+data/raw/plantdoc/train/Apple leaf/stock-photo-whole-ripe-green-apple-with-apple-leaf-and-green-apple-half-isolated-on-white-background-with-566226067.jpg,0,train,d22f37f91d258f8353461af14d8e7d18684cc367c1982eb8c00a9262d7ba3343,1
+data/raw/plantdoc/train/Apple leaf/yellow-apple-leaves-isolated-10868989.jpg,0,train,cb047c1396614f20fd5ce41334538caea2392cddbef0e05458f585fce56b1198,1
+data/raw/plantdoc/train/Apple leaf/yellow-ripe-apple-leaf-27092797.jpg,0,train,ffe2b953c46be4949e2dc8d706c082e82d4cdc8a28a7f63e19f61b042308a7ce,1
+data/raw/plantdoc/train/Apple Scab Leaf/01Apple-scab-2-Venturia-inaequalis.ashx?w=600&h=408&bc=ffffff.jpg,1,train,542ade26992d14b6f98ca21dfa2317248497efc80e0e5e329a20deb958bd092c,1
+data/raw/plantdoc/train/Apple Scab Leaf/11NovMW_W4-A_4b.jpg,1,train,360dc32f40ba91703f03cbd53b9081583c3a471eba5152d061833db4892f7033,1
+data/raw/plantdoc/train/Apple Scab Leaf/12-20_apple_scab1.jpg,1,train,c3073d29893f6d4e1c4d469726bdcd888ac957a3c4dc2b43fa3b5ad76b4b38ae,1
+data/raw/plantdoc/train/Apple Scab Leaf/500_F_125294801_k0A2teQwKxZfTV1pcaerZFf9Th04F04q.jpg,1,train,4586105daaf02368426cd4b708e2278d0b7f8c0b48f952ccdd188e2d33312129,1
+data/raw/plantdoc/train/Apple Scab Leaf/6A642AA3-1DB1-4413-B0B6-7FBB68A5904A_original.jpeg?1528657579.jpg,1,train,2d2a97c41c74c3d84702c6f1e61d2a9b480e22baff6994ff4d89944e8ff05f9b,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple%20scab%20-%20early%20infection%20on%20leaves.JPG.jpg,1,train,adb60674ce7fe20fa880e813d8904f8354d3db13cf3b666484f7656b65146b99,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple%20scab%20-%20late%20season%20infection%20on%20petiole%20and%20leaf%20underside.JPG.jpg,1,train,7b630b5a6d1ade43a3d85085fde4c6f958d2fe8f26aa93e3da7225fc12f22bc2,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple-Scab-Mulrooney.jpg,1,train,417e20e9c5721805f9669566405f97162045321c90a653f3ae1d32c290b70874,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple-Scab-image-01.jpg,1,train,aa577d05d1b89f0bebbfdb93d73590d5058dee5f197b82111ee4f25e369aa43b,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple-Scab-image-02.jpg,1,train,34d2cc48ced7ec7faaaf67a3a50593531c4acc38af762289487a15b16e738dc4,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple-Scab.jpg,1,train,553408307413a551b96ec8a40798e9e02c6064de8ddec61513b4ca502648937e,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple-Scab1.jpg,1,train,543670df5dc360f673b99f155a8672eb5661451bca9ef2137cf11940be8426eb,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple-Scab_1_1.jpg,1,train,6b152dc1fcb524189247c28e4dd4d1e75740b0ff78cc2ad2ad5276683ed2c0f7,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple-scab-on-crab-apple.jpg,1,train,60b766ca36fda336b789801752087e9f5085c2e0787410734d6b81c21aa5c7e7,1
+data/raw/plantdoc/train/Apple Scab Leaf/AppleScab.JPG.jpg,1,train,6178da10736f1d7137599e6da5d23e51b25fd595545a36539920add126513527,1
+data/raw/plantdoc/train/Apple Scab Leaf/AppleScab02.jpg,1,train,10b9837a099553374867b2450a095df16d7092f3df4187f65e3a70975a509e9c,1
+data/raw/plantdoc/train/Apple Scab Leaf/AppleScab03.jpg,1,train,7ed19d33429f28d2e4c5631c14f9d4410d74e9cdff369af43327182c2294e3fb,1
+data/raw/plantdoc/train/Apple Scab Leaf/AppleScab14.jpg,1,train,d8a9ca5a9192195bfd939e45a47f9024cd6f10b6ef2e42621af78c3c099d310d,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple_Scab163.jpg,1,train,11813484d19dccaecb3a41332959b4785d99fd18523cfb98cb3b6d8d95c98ea2,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple_scab.jpg?t=1473441220256&width=300&height=200&name=Apple_scab.jpg,1,train,5d6b6e28d40f85adb631d7984f5ecda27ca63dd4eed2f819b0eeaec37fed69e4,1
+data/raw/plantdoc/train/Apple Scab Leaf/Apple_scab_symptoms_on_leaf.jpg,1,train,904dd8eece3ccf406b74955d508fa88016173e3316ccabe184b1c4a43b0de87b,1
+data/raw/plantdoc/train/Apple Scab Leaf/DSC00005.JPG.jpg,1,train,1ee0c9aaeabb5719384627444150515cc56553e5cf37f78ee95038b1329b2416,1
+data/raw/plantdoc/train/Apple Scab Leaf/DSCF1248-1gz1wpc.jpg,1,train,8e939241d8233e0821e0344a3f79a343f40b17ec305c6694f74c1adda824e7c7,1
+data/raw/plantdoc/train/Apple Scab Leaf/IMG_3166_1500x1500%253E.JPG?1473520197.jpg,1,train,7e5de8b54be60250f24808715d7226ef0323e2f903e32e352df1ad8892700f31,1
+data/raw/plantdoc/train/Apple Scab Leaf/IMG_3455-xjgwni-1024x1024.jpg,1,train,4c0fe5bde156dcf9634b3779fd1f6c08bbc34dea3f1a484c0df7407965c64d3d,1
+data/raw/plantdoc/train/Apple Scab Leaf/Malus-Scab-disease-225x300.jpg,1,train,1be602a32fc5516084769176607954b93d140746304ed6a0192f1bb12521d52a,1
+data/raw/plantdoc/train/Apple Scab Leaf/Scab+close-up5846.jpg,1,train,38517c807875e9110a8a2b8da31d0b02ca05cfd58ceb75b3ff97b73c028192e1,1
+data/raw/plantdoc/train/Apple Scab Leaf/acfsca026527.jpg,1,train,5539ac1c5485f841147bfcb18208102145c90366f95857fbb0c6af8ade2439b5,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple%20scab%20MF821.JPG.jpg,1,train,a59cb20d58b23d240fb3b6341531bedb4419b0471e3955344167c13d18446362,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-disease-tree-fungus-906x391.jpg,1,train,a70fede1dd6a400652b8ee881d511435f0d5b5a4a0fc446cf644c9c179ee0a0b,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-disease.jpg,1,train,670fe7c9f78d10755d655d532c4807eccad55505f9beb489d64413e50cd1b96e,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-leaf-big.jpg,1,train,4090bd9db7eb935abe7a78288a8dafe790834498777373a4b073a96685cb88f2,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-obst-krankheit-m7akxy.jpg,1,train,52b12dd7f9ccf5367fbdb343589114bed2a3f345f1368480cf45378121e86e49,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-venturia-inaequalis-early-leaf-infection-and-mycelium-AW0TTX.jpg,1,train,27d71dc41a8a482373b19b242942130b2b25fc6f6b2839c16940c15c26538d76,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-venturia-inaequalis-early-leaf-infection-and-mycelium-bxbd0k.jpg,1,train,02306072820c86f5f5bbd739d22a8d582794a3c54df5b698bf0fb2fe2ff73e8c,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-venturia-inaequalis-early-leaf-infection-and-mycelium-bxbd23.jpg,1,train,8258bf7d75705b00135a8901725011be38d54f06a8aa2d88203b0d73b6ac9713,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-venturia-inaequalis-germinated-from-a-spore-shower-on-an-apple-leaf-X31BGG.jpg,1,train,ecdaa5fbd2e79f02989f8e7d29068f082a038f02e317f42363437d10f92f696f,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-venturia-inaequalis-germinated-from-a-spore-shower-on-an-aw08hw.jpg,1,train,597220b696e2327c31ef86c95805da99ffebd316b640294f10049e2b0d6dc399,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-venturia-inaequalis-leaf-symptoms-on-tree-dark-fungal-pustules-aceg6b.jpg,1,train,3ec1c4fcba02e910cf21ca649d21512058329bd30a2dd76b820437102b231232,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab-venturia-inaequalis-lesions-mycelium-on-leaves-a8h9nb.jpg,1,train,7b7f9f61a112013d660cc4ea5c74113cfbb01956842bd0dd8c35f003d2b9eef6,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple-scab_figure-2.jpg,1,train,97944355cb3fd879e5fa5f553b6d3b8d6df7a4d891490358d13f2bbc53cfe29e,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple_scab.jpg,1,train,74015b467f489d78473499490b0d26447c14da380123f5af46b4d241c827cbe2,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple_scab1.jpg,1,train,4b17d7e6dad69d8e73213316d50bc96cc24b8cc7525f16394552ec8dd0171417,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple_scab2.jpg,1,train,2165fc0c988c272e1e56a7b7323b9aacd92763afdd0e66b618d7755f0de9d79e,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple_scab_1465_180.jpg,1,train,df27c006db99cea5c11f16f242ac3994f3017e67f81fac096c381e4c46ceaf20,1
+data/raw/plantdoc/train/Apple Scab Leaf/apple_scab_early_jc_sm.jpg,1,train,33e81d42b051353813ad434e08dba087ce3ed332f075011ae61595bfd0d1ea1d,1
+data/raw/plantdoc/train/Apple Scab Leaf/apples-severely-affected-by-apple-scab-venturia-inaequalis-dgk11a.jpg,1,train,cff95e1ed84b079546f5de75f8b473daccaf355d7c90ebcac1ea0b6c0e2e1a0b,1
+data/raw/plantdoc/train/Apple Scab Leaf/apples_apple-scab_02_zoom.jpg,1,train,d400afbfd7824e8c4f53819a77e868e910e812336ad77a4539dbe7ed13529c57,1
+data/raw/plantdoc/train/Apple Scab Leaf/apples_apple-scab_03_zoom.jpg,1,train,e6c45ecdafac34873aa4aef25fb1ed7084713c458a67ccef8bd6cfd016523575,1
+data/raw/plantdoc/train/Apple Scab Leaf/applescab-500x383.jpg,1,train,18c11b0143ef4532782a536e204c6aa6fecaf1cb64d6a46fc9b8f028b13a7a23,1
+data/raw/plantdoc/train/Apple Scab Leaf/applescab.jpg,1,train,d46084bf18335b75d62302ecd7aa9e42a827c9ce505b2ede5ea5427bf1835b4d,1
+data/raw/plantdoc/train/Apple Scab Leaf/applescab004.jpg,1,train,25e2fba8401566d16905c234ac94aa77fc5f7b03a52edf4b3e1f4271a93f569f,1
+data/raw/plantdoc/train/Apple Scab Leaf/applescab2.jpg,1,train,76bfd5a9b4ec094bd4ee0f4396e0c3b67af39a17d48e61ed4e7e3df4875de3af,1
+data/raw/plantdoc/train/Apple Scab Leaf/applescab_lf.jpg,1,train,37332e378fa9e9530925b54ad4956526f04963db4446cfc0dbe6ba8927f35f2d,1
+data/raw/plantdoc/train/Apple Scab Leaf/applescableaf-pcd.jpg,1,train,68125c161e57e097890cfb5dfce62a4703191ee8d905816d2c6366117aadfe01,1
+data/raw/plantdoc/train/Apple Scab Leaf/applescableaf.jpg,1,train,19ee285adf2a1a2da14beaf81c044c15511d537a5e274ececc1a0650388eb66e,1
+data/raw/plantdoc/train/Apple Scab Leaf/applescabmalus1.jpg,1,train,aa36a7c6d64c2a0721470b93fb32578dc013cc9fe8bacba91377384b5491a857,1
+data/raw/plantdoc/train/Apple Scab Leaf/appletree%20leaf.jpg,1,train,03b9e101d574d35ab52376b88b750fbc2a6e1398672ba8c5a7f70c533eaf5bcd,1
+data/raw/plantdoc/train/Apple Scab Leaf/appscab.jpg,1,train,268d01db1411fed3a7c0cfd0ab26d4ab3975aa82a53d1944c906c8ce38175a76,1
+data/raw/plantdoc/train/Apple Scab Leaf/branch-with-ill-leaf-of-apple-scab-disease-picture-id928917010?k=6&m=928917010&s=612x612&w=0&h=UY6EBbnGkTzVcp4Tm8myYO7KoIOtrZo3VRDrd91qslo=.jpg,1,train,f566ae728e3af90a88fcc76ba2db8d8486c1b91cbf82a3a11928b22bf6377f23,1
+data/raw/plantdoc/train/Apple Scab Leaf/crabapple%20scab%20Snowdrift%201%20Crab%206-24-16.JPG.jpg,1,train,3cd55f46ed452e877318eb18368ddf6332e50f9b5d4f02494ce9deac3b52a6e9,1
+data/raw/plantdoc/train/Apple Scab Leaf/disease-on-fruit-scab-on-apple-tree-j1r0jp.jpg,1,train,c08960aee3abe99a748b799365910f6bd077e0a228941c896ffe9d0531bad85f,1
+data/raw/plantdoc/train/Apple Scab Leaf/early-symptoms-of-scab-venturia-inaequalis-on-apple-leaves-AW051N.jpg,1,train,d84178dbcd8743aea350d26f7f3c3b4e222d66ea894a7cae1e339864b5fb4d3f,1
+data/raw/plantdoc/train/Apple Scab Leaf/early_symptoms_of_crabapple_scab_on_prairifire.jpg,1,train,98293fba1f4000384d9ea1a55c009d2457f647f31793e204a282b632e5858125,1
+data/raw/plantdoc/train/Apple Scab Leaf/image0002.jpg,1,train,cdd174e30b256b50b18d4a6e3127d3a0e40c23985cfde460344b254584b91848,1
+data/raw/plantdoc/train/Apple Scab Leaf/image005.jpg,1,train,7e5909611da43d1ea4d95c333381b1c81dc90d03693e8806b5bebaaa2c329019,1
+data/raw/plantdoc/train/Apple Scab Leaf/img_1916.jpg,1,train,0458948b6424b4ab4a4f40a64a04a87aac6e663b5c816e8719c593e8384fd54c,1
+data/raw/plantdoc/train/Apple Scab Leaf/img_1920.jpg,1,train,5623040460cb4af532f355cf759b2108e127e4f478c8a6f909d2098ca20924c6,1
+data/raw/plantdoc/train/Apple Scab Leaf/img_6415.jpg,1,train,ab296dd76b9bbe506226ca4de5d482731ec51b205afe435cfb007d06c9c93dd8,1
+data/raw/plantdoc/train/Apple Scab Leaf/inaequalis1a.jpg,1,train,f5123514d192d8ae3a15c82ab8fde83b24c2d102e695f8dd82053519f9c46a62,1
+data/raw/plantdoc/train/Apple Scab Leaf/inaequalis1b.jpg,1,train,bee6e8f540f8ca5eaad6f0ed4cbad1e0a951e713cea647c6708c207cdb511f8c,1
+data/raw/plantdoc/train/Apple Scab Leaf/s-l300.jpg,1,train,d21972fab56f9dcc140544ca93264c131c0bd9ab1c9c068f380c7fce848c02a4,1
+data/raw/plantdoc/train/Apple Scab Leaf/scab-apple-leaf.jpg,1,train,c36efa96e728d4f821a655b29a70132b0dd79261c25422fc932859c01bed6483,1
+data/raw/plantdoc/train/Apple Scab Leaf/scab-disease-apple-leaf-macro-62212448.jpg,1,train,27d9a4dc3bbfa547199bd1d8c16582634cb564d35d3a3cd6a45c37f59157cf27,1
+data/raw/plantdoc/train/Apple Scab Leaf/scab-disease-small.jpg,1,train,e047e65979e339fe220f96dcd066788ca6274028a5f026d0bac6c877502c9605,1
+data/raw/plantdoc/train/Apple Scab Leaf/scab-on-foliage-300x259.jpg,1,train,38afb6f5adb123625aa6e2fc46eb348bea3cfafe27d4252adc849ccbd8895fff,1
+data/raw/plantdoc/train/Apple Scab Leaf/scab-on-tall-spindle-apple-tree-d3phw6.jpg,1,train,325078d97bf9c3eb8e6d2e3fd48228796dcc4c463fd111901d9564ddbb573337,1
+data/raw/plantdoc/train/Apple Scab Leaf/scab-venturia-inaequalis-development-of-disease-on-the-stem-upper-B359MJ.jpg,1,train,c0ae8a80935402019958c2028363b550f6f4113eca04d78b064d9362d61267b9,1
+data/raw/plantdoc/train/Apple Scab Leaf/scab_large.jpg,1,train,aa7c3abdc10f615356782c04af35a6cbd28db693bab86dea5aedee2ea2a54222,1
+data/raw/plantdoc/train/Apple Scab Leaf/scab_on_leaf.jpg,1,train,3971421e55a4e29d5e0db7584f2cd61938aa3099cdd78b14b57af9dad7ca9b36,1
+data/raw/plantdoc/train/Apple Scab Leaf/schurft.jpg,1,train,a11471891ea35fee4f273686e720125e6f16a677fe5fe4d76ac56e71a2a12937,1
+data/raw/plantdoc/train/Apple Scab Leaf/seriously-unwell-apple-tree-fruit-brown-and-split-yellow-spots-on-leaves-scab-P67H27.jpg,1,train,77897137f315bfa1db155e18e4b0030bac773c4c239ef80602ab646753fa8945,1
+data/raw/plantdoc/train/Apple Scab Leaf/venturia.jpg,1,train,da179947710785cca1e21fbc6dea1019743553a651a5fbddef50a62b855ef713,1
+data/raw/plantdoc/train/Apple rust leaf/1-Cedar-apple-rust-infections-and-rust-induced-leafspot-on-Ginger-Gold-4-Jun-08-2d4hi2k.jpg,2,train,7e165f6fb80c2801951a885fcf2e50f8ff730d38ef97173bc255770d8980e43f,1
+data/raw/plantdoc/train/Apple rust leaf/1-Severe-cedar-apple-rust-on-Ginger-Gold-1-Jul-09-1n5iktz.jpg,2,train,458a73aa45aa65db2c01f79daf04602b618eb1806dc474f80c5eb252020a2c1a,1
+data/raw/plantdoc/train/Apple rust leaf/2-Rust-induced-leaf-scorch-1fpa6c3.jpg,2,train,8348d1ec4eb9869c48240077691a60dbe0fd7614b9bd4866e958e79a9c20ee15,1
+data/raw/plantdoc/train/Apple rust leaf/20130610_110525.jpg,2,train,b137ff2e36ac62d31d78c2f7fe2ba4d699fa6995dd17041337f5762ec4de6c87,1
+data/raw/plantdoc/train/Apple rust leaf/20130802_111648.jpg,2,train,45d1b1f228033bc803db94dcb711bb7bb94e8687f5cb49e75a2c506b301a9677,1
+data/raw/plantdoc/train/Apple rust leaf/20170524_195105-1k1eu8b.jpg,2,train,3a57f41b872330029f85b697c89dd9b2b350e5ab7102d6a4fb45d1d6e0ce843c,1
+data/raw/plantdoc/train/Apple rust leaf/3-Rust-induced-leaf-scorch-1emjjbl.jpg,2,train,a66860fd0ba66d2586bb1cb605ca4877f393fd6410f85c1cdd734ab2eadde6f6,1
+data/raw/plantdoc/train/Apple rust leaf/601fbee78c62e32a76e768a92ee40193.jpg,2,train,cae59b90d4b2bffa6f908446dd9c61d1e4288a349426fdd6bd4db296f0632868,1
+data/raw/plantdoc/train/Apple rust leaf/Apple_RustSpots2.jpg,2,train,3997f9c94a56658e61e23b0411b12210553aad691a5f613412359c568415ddda,1
+data/raw/plantdoc/train/Apple rust leaf/Apple_Scab164.jpg,2,train,524daa81100ed880ec366a8bc34edd974cd322db042bf48ea8f2088194bd0fd4,1
+data/raw/plantdoc/train/Apple rust leaf/B2750027-Cedar-apple_rust-SPL.jpg,2,train,9c1597012a8770856993076f035adf6c7b528b57acb7517157402891adecf6e8,1
+data/raw/plantdoc/train/Apple rust leaf/C0258424-Cedar_apple_rust_on_a_leaf-SPL.jpg,2,train,3943b6684542e222b43a4569df3d51a080e4c32df86d4057a87d9ad49c38e1e1,1
+data/raw/plantdoc/train/Apple rust leaf/C11.11.jpg,2,train,60e2542936a3f2802d1ea30f8c830a706c83fecca4690feddbd882da2a9512fe,1
+data/raw/plantdoc/train/Apple rust leaf/CAR%2Bzestar.JPG.jpg,2,train,2b72a590dcb49ba7d8bfa658253b7a85b55e5e407d211ccc80490f80f5cc1710,1
+data/raw/plantdoc/train/Apple rust leaf/CAR1.jpg,2,train,ff8e845061e3a305e55ae0b60218008bafa88e392bfb5f36e0e9f58f379526dc,1
+data/raw/plantdoc/train/Apple rust leaf/CAR4.jpg,2,train,20f1ca04b11a48bf71a59f4227fc49819d1a8bf131366ea9d678111844c5f53e,1
+data/raw/plantdoc/train/Apple rust leaf/Cedar+Apple+rust+on+Crab+apple+leaf.jpg,2,train,652f5d47929b2184a2ca70c1d1bcb598d60c8d77de31edf9397c26ad8694a602,1
+data/raw/plantdoc/train/Apple rust leaf/Cedar+apple+rust.JPG.jpg,2,train,9b48bcfad83e7bea0de4b83df64b4e1ec1c0db47ba306aff42c135c1adbf8e4d,1
+data/raw/plantdoc/train/Apple rust leaf/Cedar-Apple-Rust-aecia-on-leaf-pic-by-NC-State.jpg,2,train,043b427c39542ed90e9f5dded6ee0e072db0690e4e3b146e3c727dde0dc26d94,1
+data/raw/plantdoc/train/Apple rust leaf/CedarApple_Rust168.jpg,2,train,c9d59bb29e5a11b9a7868f729f9e1162c498b1f0be80ba50a08929baaa65e948,1
+data/raw/plantdoc/train/Apple rust leaf/Cedar_apple_rust_on_crab_apple_leaf_showing_underside_cup.jpg,2,train,48cab6da14fb5e8d77549a483e776fadd05219c18ba64efcd6d30e10b89f1d6c,1
+data/raw/plantdoc/train/Apple rust leaf/Cedar_apple_rust_on_crab_apple_leaf_upper_surface.JPG.jpg,2,train,d5472d820aa8424d7d2753c2a36a3e9899034314985f53cd7e64303112328230,1
+data/raw/plantdoc/train/Apple rust leaf/DAxpYpoWAAQxi1f.jpg,2,train,811307ff8becb7adac951048240fc4e3c14eb0598a46cb905d088693e1f267f5,1
+data/raw/plantdoc/train/Apple rust leaf/DIsease-Pest-Management.jpg,2,train,54bb00175c906456d789365ef703fa4b802c69dcb8e8f7a7d4d62b5d8ce19c75,1
+data/raw/plantdoc/train/Apple rust leaf/Fig-17-Apple-rust-on-lower-surface-on-leaf-at-extreme.jpg,2,train,5e44bf539e9bd3d6637a4feed9bebec7eb9ca1db2f590e1297a86f515425d8a4,1
+data/raw/plantdoc/train/Apple rust leaf/Figure-1.-Typical-cedar-apple-rust-lesions-on-upper-surface-of-apple-leaf.jpg,2,train,add4af0f1609ddb00a61775b61d8b734a2b3eb5e412a8a80688ea3e99e2e72ab,1
+data/raw/plantdoc/train/Apple rust leaf/Figure-3.-Aecial-projections-on-the-underside-of-an-apple-leaf-with-cedar-apple-rust-disease-.jpg,2,train,3bd4147ef09d191343c7d40bad98b8cda165a78fc604b69982cd6989ec1e25bd,1
+data/raw/plantdoc/train/Apple rust leaf/LIFH3.jpg,2,train,315bd3f13ecc5cddb28724dc2519026ab4eb2b2f8eb4ff2eb2421d8ffc0b568d,1
+data/raw/plantdoc/train/Apple rust leaf/P1020430.jpg,2,train,edd5005e6676c76729585156517a7aa3f2b14e691f802c7c49555c9c2a72cf9e,1
+data/raw/plantdoc/train/Apple rust leaf/P7290482.JPG.jpg,2,train,b0f8cf2d97c94851d98b981553885a3ae8e62078ad72082ea1e261071a5295f3,1
+data/raw/plantdoc/train/Apple rust leaf/PLPATH-FRU-02-cedar-apple-rust-figure-1.jpg,2,train,bdb29808a30e1f5799100356aaa9273e3dc0dd69308926737d2a00f65b2a706e,1
+data/raw/plantdoc/train/Apple rust leaf/Rust%20on%20Brandywine_ADJ.jpg,2,train,0fe5bf99f0109e31de66dca0f5bb4eef37709dfa0171684dc6e729fe76984696,1
+data/raw/plantdoc/train/Apple rust leaf/Rust--CA.jpg,2,train,2eb7d46cbcfceae8577ffac920db5b7af20aa98e58d8644894ddc747cee1ba13,1
+data/raw/plantdoc/train/Apple rust leaf/a82e389f8b5da4758a747c32ef8af6f9--rust-apples.jpg,2,train,ba3a8855ec253f62881d36b1320f75b3fee88bc173434c975f677174ba652c94,1
+data/raw/plantdoc/train/Apple rust leaf/aecia-on-apple-e1368285975597.jpeg.jpg,2,train,58f19f4ca140c6f73d670221b5989458f290849fa2d13eb12eb886dfba33acd8,1
+data/raw/plantdoc/train/Apple rust leaf/apple+rust+001.jpg,2,train,de27a0c6224d7f5079a8f5b971595072cec014237aa2db87a23838ae170fa510,1
+data/raw/plantdoc/train/Apple rust leaf/apple-leaf-rust-and-cedar-apple-roestella-pirata-report-of-the-of-picture-id629456105?s=612x612.jpg,2,train,0b5d7f1f5df1e4dd236e3fd5c9b5e253ff4bd9115b084843cf98f53e9ca2f2f7,1
+data/raw/plantdoc/train/Apple rust leaf/apple-rust-disease_10_845384767.jpg,2,train,e9f5b751af491ee1c3b42b325e98b1ba187973746fd6b309ee22dae7907e5cf8,1
+data/raw/plantdoc/train/Apple rust leaf/apple-rust.jpg,2,train,c6b9c9daefca5d324a93300f796d4044fd7e1ce5e6283fb2cae6681841c41489,1
+data/raw/plantdoc/train/Apple rust leaf/apple_F14b.jpg,2,train,fceff585ef723012d786327355d536406c92cb1d329f123f07d56df7291ae311,1
+data/raw/plantdoc/train/Apple rust leaf/apple_leaf.JPG.jpg,2,train,5fc1918cc6497afa0297fbb5c5762e66a406f707204569495c650c2da63d1f01,1
+data/raw/plantdoc/train/Apple rust leaf/applerust-500x383.jpg,2,train,e8ab606b2c5790cb01e4fba348342caadeb38a63b3db972826493f650f79879c,1
+data/raw/plantdoc/train/Apple rust leaf/apples_black-rot_01_zoom.jpg,2,train,b320f72e52fcc2be3dde6bd511b7dca73130a4e22bae10de03bb31f8f69f7520,1
+data/raw/plantdoc/train/Apple rust leaf/apples_rusts+apple-scab.jpg,2,train,515a0330474dcefb427b1d6a269dd277448ba84505d5d99202e291a26973fcca,1
+data/raw/plantdoc/train/Apple rust leaf/apples_rusts+frogs-eye.jpg,2,train,38a4760ecc285c339575d090dea7eda5d52ed020d23efbf2e6e555592e72e513,1
+data/raw/plantdoc/train/Apple rust leaf/apples_rusts-cedar-apple_01_zoom.jpg,2,train,c2700097f36d85754d90ba5407fbf9f01c791b511ee196f87ca3ee15d412e9c4,1
+data/raw/plantdoc/train/Apple rust leaf/buckinghamshire-speen-garden-cedar-apple-rust-on-apple-underside-of-F5D3RD.jpg,2,train,68cd5705f8d3a7602e76c0bbc5206ad1dc822f57d073f64f1d31eb612f1e3139,1
+data/raw/plantdoc/train/Apple rust leaf/buckinghamshire-speen-garden-detail-cedar-apple-rust-on-apple-underside-f5d3r7.jpg,2,train,34f91eb0a1485d75fa8a6aeb9edc745114f32ab3f08b3d3fa77c67337295167f,1
+data/raw/plantdoc/train/Apple rust leaf/car-apple1.jpg,2,train,55cca48fda64d54ecfc49ed649c173bf79e9bea29b652d4e81bf3ffd75616912,1
+data/raw/plantdoc/train/Apple rust leaf/car-apple9.jpg,2,train,363121c669016765221a1160636d3f9c0078157a5fccb1397aa8c855251a9a3e,1
+data/raw/plantdoc/train/Apple rust leaf/car.jpg,2,train,69c18003105762817dd130ede3642566b522a1cc07944951177faa97c10951d5,1
+data/raw/plantdoc/train/Apple rust leaf/car1.jpg,2,train,da3a9af451c8222bb3f2e69cadd3891473d13cbcdae01f53bdfb26d5e534acc8,1
+data/raw/plantdoc/train/Apple rust leaf/car2.jpg,2,train,023ae6d32eab19b4cc5b961525102248cab5a910f5c1eb8ac2c282795d980c5d,1
+data/raw/plantdoc/train/Apple rust leaf/cd6bfd6bfbcac781bd496bf13845fb0f.jpg,2,train,7b53aa89bd2a7499f048a5afd2ed6337f2e3528b04cc7f722cbedca844e33950,1
+data/raw/plantdoc/train/Apple rust leaf/cedapp04_lg.jpg,2,train,3f30ae4f1860006a2d6031b9e63c7c8556035ebfd57bcde60ba50bba4d11e8f0,1
+data/raw/plantdoc/train/Apple rust leaf/cedar%20apple%20rust%20lower%20leaf%20haw%20S%202%20ne%20OH%20RA%209-2-16.jpg,2,train,1c78dc97edadb1ca8091534091108f22344d46c9ce00e409c5f1f6054517b476,1
+data/raw/plantdoc/train/Apple rust leaf/cedar%20apple%20rust%20upper%20leaf%20surface%20S%20ne%20OH%20RA%209-2-16.jpg,2,train,bedee8f438f7ad80ecd59006ed87f0ceda35ee873c8dd26f9e96fe95a591ea79,1
+data/raw/plantdoc/train/Apple rust leaf/cedar-apple-rest-225x300.jpg,2,train,0201fbdf70fedb731faa24fddfe9bf87989122aa5173ca13deb996a14f382e71,1
+data/raw/plantdoc/train/Apple rust leaf/cedar-apple-rust-gymnosporangium-juniperi-pustules-on-apple-leaf-lower-c99tfp.jpg,2,train,72b1989e3cc58d4b1b4666411fd9f94927d842b5bebf4387f5beed86af183ae0,1
+data/raw/plantdoc/train/Apple rust leaf/cedar-apple-rust-gymnosporangium-juniperi-pustules-on-apple-leaf-lower-surface-X12A9H.jpg,2,train,2b7cdaaad48f431b89a976bf6b1497a2ef2bf715f0f24e6c3025f9425fb06ae9,1
+data/raw/plantdoc/train/Apple rust leaf/cedar-apple-rust.jpg,2,train,b3c54bd2bb932e25a41372b918f6054adf6d018afa0f239b3ffd5db641d27d33,1
+data/raw/plantdoc/train/Apple rust leaf/cedar-apple-rust_fig-1.jpg,2,train,7570c4bc6c12ae9d57e45c94f6d9126a699b79a9fc693b97d481deaeb1648813,1
+data/raw/plantdoc/train/Apple rust leaf/cedar-apple-rust_fig-2.jpg,2,train,65fe7a27bcad4e64a0d370df7e7db3dfa2bd4c7c7e69f4b0606c34ac3a721a13,1
+data/raw/plantdoc/train/Apple rust leaf/cedar-apple-rust_fig-3.jpg,2,train,d404d2e04634d97e69edf13d933d48975c03bbb1c8044974a0ee730f39a74653,1
+data/raw/plantdoc/train/Apple rust leaf/cedar_apple_rust_3.JPG?1362772840.jpg,2,train,93d5e66314ea458586e9021ba2f6f6d712f3b9c53185db431ee98098abfba387,1
+data/raw/plantdoc/train/Apple rust leaf/cedar_apple_rust_leaf.jpg,2,train,aceb7f18c37695d0a61416b613034dc2cefbd017c2b5515f0643c999fac52dce,1
+data/raw/plantdoc/train/Apple rust leaf/cedar_apple_rust_on_jonagold_2.jpg,2,train,3eb077a227a5539e159129e7acbe391c8e9c84dbcff482527e8f0908cc037daf,1
+data/raw/plantdoc/train/Apple rust leaf/cedar_apple_rust_on_jonagold_3.jpg,2,train,1368c5edf962de6d2e7d29a5e741e42c6a24f73456b3c39857512afc56237668,1
+data/raw/plantdoc/train/Apple rust leaf/crab-apple-tree-leaves.jpg,2,train,86012f53f7a1a9b0b6816bbcefcd6289af6f99b8fcdb68f9bfd67dca37efe419,1
+data/raw/plantdoc/train/Apple rust leaf/frog-eye-leaf-spot-on-crabapple-grabowski.jpg,2,train,0a8a997b6c0b9b6ee961cae7846e2f92fdfeed2d607ae7a67586c484bf708aec,1
+data/raw/plantdoc/train/Apple rust leaf/image1_14.jpeg.jpg,2,train,b8a28d58a7208da069ad08f37b0c1b0bf69098016f8c678118604bb09d2f1dd2,1
+data/raw/plantdoc/train/Apple rust leaf/nPP7P.jpg,2,train,0cd79cbe738a246d2c19c57684fdbed8a85f3f110f2d1b3a6b7c9c052ef577b2,1
+data/raw/plantdoc/train/Apple rust leaf/pix053.jpg,2,train,a1cfda1e977c0f87bcb5a43eec3b0a3683e33d3db789cc376af721f73ff2d899,1
+data/raw/plantdoc/train/Apple rust leaf/quince5_600px.jpg,2,train,5b8855836c0a5e59f35f5273e68e381b53a12acda9afdedb454b1d34ce0745c5,1
+data/raw/plantdoc/train/Apple rust leaf/rust-0450.jpg,2,train,04778924e9867605ca2a14e3856c6ca3681bda808b16bd03bde251bc579a5c08,1
+data/raw/plantdoc/train/Apple rust leaf/stock-photo-apple-leaf-damaged-by-apple-rust-mite-a-common-arthropod-in-european-apple-orchards-galls-698959369.jpg,2,train,2497f0c5143d6bf68b16de83c22dcac119bd9b102089fea8069606e0a56978ae,1
+data/raw/plantdoc/train/Apple rust leaf/thumb-20130802_111648.jpg,2,train,25cd61bc03518ad06ed81432fbb9a676dbf8db431de1593c77b18bee8f0acd6a,1
+data/raw/plantdoc/train/Apple rust leaf/thumb-20130802_112143.jpg,2,train,62d82f1fc5433dfc5f214ba7aa660dca5c3377d32acbd42d36fd1cfe6255bbf5,1
+data/raw/plantdoc/train/Apple rust leaf/tree-problems-cedar-apple-rust-apple-leaf-475x350.jpg,2,train,98a229ab2c0303f46a184389e8bef902ddc34a8aa07854b732240ef9b229521a,1
+data/raw/plantdoc/test/Apple leaf/20180511_090912-14gtw8a-e1526047952754.jpg,0,test,93eaedfb1c29ec24e347500fa9e1e5556ba94af539254caac79c8b471d11b8df,1
+data/raw/plantdoc/test/Apple leaf/20180511_091133-24l1vhg-e1526047988236.jpg,0,test,646de55f7314f6994e453a8b5306fdf63e7b8f66a28b29fa9274be3b4d763883,1
+data/raw/plantdoc/test/Apple leaf/20180511_091252-1gy5xf5-e1526048000596.jpg,0,test,aa297cdf285ef4fd70ef7561b0f80f212d169a075ab01e6ea15a39b49788d4bb,1
+data/raw/plantdoc/test/Apple leaf/4120978-single-green-leaf-of-apple-tree.jpg,0,test,86ae7cf7e63818282f1e6c217a50ddd0bc2399c677d29268c5603bc0869f8192,1
+data/raw/plantdoc/test/Apple leaf/Apple-Leaf-Wallpaper-17.jpg,0,test,632220da09aa65fcd78c805f778511125c99639b3894170f4d9c8a94f7f32ddb,1
+data/raw/plantdoc/test/Apple leaf/apple-leaf-14319997.jpg,0,test,ee31497d152703df4f9581a32796cc272181cc0b2bd7be22d5e10ee0f40cac9d,1
+data/raw/plantdoc/test/Apple leaf/apple-leaf-9834637.jpg,0,test,56a414ce3976cfbd137ebabac52ca2faba093d9a865368d129eae5bae0ac14e8,1
+data/raw/plantdoc/test/Apple leaf/apple-leaf-closeup-37636177.jpg,0,test,8d345ef55e8b6b13407264385e8076101c8f3711b908c6c2f8eb32a16ae78864,1
+data/raw/plantdoc/test/Apple leaf/apple-leaf-isolated-white-background-56631026.jpg,0,test,4742bf7d38d0b0d9042cb3430d6f703d9877fc1bc5703977da24d48fb001df82,1
+data/raw/plantdoc/test/Apple Scab Leaf/052609%20Hartman%20Crabapple%20scab%20single%20leaf.JPG.jpg,1,test,13cfeac779b23fa433e92498086f19b1768b84cab23bc9d25e5b33cbe7ca17db,1
+data/raw/plantdoc/test/Apple Scab Leaf/1b321015-6e33-4f18-aade-888f4383fe92.jpeg.jpg,1,test,7af1a2678a7114632f0274947888e29794321fc9e5edc25dd78d16d42017d685,1
+data/raw/plantdoc/test/Apple Scab Leaf/28-500x375.jpg,1,test,5fb95aeef21638c09143a6f15c39c65eb7be22e7c752730c648ed7b60c6d50d8,1
+data/raw/plantdoc/test/Apple Scab Leaf/816.jpg,1,test,ffc0df6903deff23117a8517a8365d729b073b272d3e6dfb97d414b1f736ddf5,1
+data/raw/plantdoc/test/Apple Scab Leaf/apple%20scab%20leaf.jpg,1,test,9fc6c998582e99696112bc79e2ce2f20f023641323d2642489b772f43073f3cf,1
+data/raw/plantdoc/test/Apple Scab Leaf/apple%20scabnew.jpg,1,test,6caf2ad458a695a73f9d890934f38628ad47e1fc395e5219ce0ee1caf57242d8,1
+data/raw/plantdoc/test/Apple Scab Leaf/apple-scab-5366820.jpg,1,test,1eaebcb9926515196f0e5499ed932bffe2dd1897e8bad55da41c4100cbc4f1b2,1
+data/raw/plantdoc/test/Apple Scab Leaf/apples_apple-scab_01_zoom.jpg,1,test,b47288fa0e351c4483d62ff1bd6db178e3fba89137407726e6f2890cf7a5d248,1
+data/raw/plantdoc/test/Apple Scab Leaf/apples_apple-scab_02_thm.jpg,1,test,f91a6ba2e60144bd62175891872170b57a3e1bfd642a7816b018b86db76257f7,1
+data/raw/plantdoc/test/Apple Scab Leaf/apples_apple-scab_10_zoom.jpg,1,test,0b32e3e7a5a1b37b7f9a18721cb2674260f6ac3246c690879d82345c9c576f76,1
+data/raw/plantdoc/test/Apple rust leaf/02.-Rust-2017-207u24s.jpg,2,test,f1b4f0ef38724290a0f896de850871f302aa12eac89625705233f77b0bd52797,1
+data/raw/plantdoc/test/Apple rust leaf/0605_Rust-induced_leafspot.jpg,2,test,9773123c2caf06b5b574c406894ed37fff53638d2b826343603504b1d69595b1,1
+data/raw/plantdoc/test/Apple rust leaf/185161-004-EAF28842.jpg,2,test,93337329613ae06077f080ee91254267039c1fb27e04eb090e6c81f99a90fda2,1
+data/raw/plantdoc/test/Apple rust leaf/2011-011.jpg,2,test,0902a4df3831c69d0580f0b746a8ea277d317e358dcd05d5304c13ac539996e7,1
+data/raw/plantdoc/test/Apple rust leaf/20130519cedarapplerust.jpg,2,test,20adb414a8162e2dfd875b16ab9ba78b80713e62242d2a57497d1cbf22f621c1,1
+data/raw/plantdoc/test/Apple rust leaf/20130610_110514.jpg,2,test,326ddb5fd0ec65489a154a583d968dc63177c9e244f82f12a55f42c2eada807f,1
+data/raw/plantdoc/test/Apple rust leaf/20130802_111632.jpg,2,test,b383d0ba58fbd71926956fe38016ef2cb1de8dd1cf09534c289b6d00b9a1e6bb,1
+data/raw/plantdoc/test/Apple rust leaf/4-apple-rust2_19011_matt-bertone.jpg,2,test,ea6f3c7dfbba1e7089ccb48ca2421249c9b8c96405668369963c723f8a136011,1
+data/raw/plantdoc/test/Apple rust leaf/9343310-small.jpg,2,test,b1572c5a942ed6485bcf2d41c2b8aaa6d6a42041fc19b0f5e9f212ff8f10210c,1
+data/raw/plantdoc/test/Apple rust leaf/99e886623c2080c22f6519b0e708c531.jpg,2,test,33d5438707e6c733eef23f55d2ca20c455a847cbdaa6055e986c7601b0cd8d23,1

@@ -1,0 +1,678 @@
+path,label,official_split_code,sha256,primary_clean
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/1.jpg,0,1,c282428647f325332794014ed20c3d4b251e90c365042245ad472341c1354992,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/10.jpg,0,0,7ac18c7f299e6e1fec2175702aac420f652570446ff1012e7004a65e88159fde,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/100.jpg,0,1,281d46fd2b43baacf3b4719fc06e0900665ab63114635a7fd55a6c61bb0876ee,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/114.jpg,0,1,88d447c4d59ea7f7f89b9bd31fb11d209d9d9b5acb0936395693f128900483dd,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/12.jpg,0,1,226a560e9f3256f597896b6c32123c54033a42adcbc6e279954f0de808e11392,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/13.jpg,0,1,ecc187993698ed7d080b69aea69e74a52edd87eab2847c1ae2010181a8656db3,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/14.jpg,0,1,d8437d95fef05c0b7da9833615c37a727ab4bccd251486fcac84531d78fe9e58,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/15.jpg,0,0,ffa562777cea426d9d1ac8d4ade85247c2f823a8c3ecd2364e9708a0374074cc,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/17.jpg,0,0,bf47c5da3bb3eef6af860f186a3b34265867e388be9be5305ad722cbb00bb91c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/2 - Copy (3).jpg,0,2,0d2d6448f0fbeb3168a659848f2863f682699c944ef13641e6b8e1a85456a804,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/2 - Copy.jpg,0,0,989a8b63eee51381b43cbdfa763ed478ae718afe35c6804eacd3adc03a4b1cba,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/20.jpg,0,2,5d43e7f641882b197841e5d331c8c87814fd5a573cb27cd6c5738d259d70daff,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/24.jpg,0,0,7304cee28c96972ea7dbe95e46bff3dbb6d61b9926fbce7f08a16492bf90848b,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/26 - Copy (2).jpg,0,1,e753d007f440219b8c71fb0925f3a036d4d465dcdddbda9950df0b1ee164eb4f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/26 - Copy (3).jpg,0,1,be2b1795e1fac2cc8e2dc86613f44d5e24e7a8a1f548b79efbb9953e58d3b138,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/26 - Copy.jpg,0,1,b42532e6749d16279014ac85385f499536adc2cd839ee17d01395480c455033a,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/26.jpg,0,1,5aa3d559e8aab3ba096cabb305bfa61a826706278ec9babe21438ba2d73babaa,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/3.jpg,0,2,4c31b5b05fba0351f842ebe06187d53e64bc1bd6f1375a3f53e25be5ea41d682,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/30.jpg,0,0,67d06ad0545a0f410144e95da16b0ca61cb1e70f003539003436b295f51a1b03,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/31.jpg,0,1,8ae725f047be65cbeb11f65b90be0d79de60f2a816430260e7f7aa32a86f94a3,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/32.jpg,0,0,d5b6d9200db6706c39789e2c1a499cccf88e67c0722b4039b112f625d6f08c25,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/33.jpg,0,0,af9b5188353f4ee9e6b50e5849d8f0af90fbf10992b083867a289ca9d6506e41,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/34.jpg,0,1,2006c08c534711eaba7a0618dbb854e365b6cd9d7a000eaa81298c9ce1f28a71,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/35.jpg,0,1,3b09e417e10ed75599c6e08c12517b95f3a2a357f80684b62479fa4bd128c620,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/38.jpg,0,0,6288835224c95ebbadf6253c9050df65d7864b18949faaf9d5a31faf8bedd316,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/39.jpg,0,1,b141bc89a70c5ae892e55e7951c3680d0fe36f153fee77d328ba1680835da758,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/4 - Copy (2).jpg,0,1,809d10e8b75ee60d3de7f9b160f264fa5088b63034f270f4d6b3571a778384e8,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/4 - Copy.jpg,0,1,e1bf75ab28a150dfa7a47ab0abccfd3a36907cbda75f164fb263f8a723febcbe,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/42.jpg,0,0,e57fef1361e7a7722cdf47235212eafc294caa92083c8a9fc89cfb4b5d07c0f9,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/44.jpg,0,2,c8f53ba3d3cf51dc3567bb22fb46b5c071a2ad28c3061c00cb653a42dd1c86b4,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/45.jpg,0,0,b7c2cefb4625cc3b8ff6e61dd8563fe998a1df105cd76090c130be56cf18abc3,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/49.jpg,0,1,cca647b37e52abe1b1628de5ab863092e6fcff1fcfcbcecc9596b955b0a5ed35,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/5.jpg,0,1,24e1f91031ec50d5bcf785023341772b8d48e54c321bb5bd2b3824094a931e80,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/51.jpg,0,1,7eb0544eab02ad743bdba31a33cdd4f62ee873b399acc1652c6cedb26cb5b033,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/6.jpg,0,0,603078b47565db9f65a8e823dc6faf6cbf8641871b1b141cfde505f3b8ce503c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/61 - Copy (2).jpg,0,0,45d31fe6e9285e1f954d0b04394aaec4a1a4de999a9a22a9a37509c7d6eff296,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/61 - Copy.jpg,0,1,5416c462811cecf5ad6a92e5c054c090a57c1bada44bceb133db4e483d597dd6,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/61.jpg,0,1,6e8df288e1da305b5d6ead053b85596662174b6d659ad65054aed1d7776a144e,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/65.jpg,0,0,f91e17f9357913fb4df7750818b4903635ac6c512b3b66208e6959dd8510341c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/68.jpg,0,0,e7f4653e21eef73cf34afccd69045ecfe809fdd629ea267a1190cbcfdf21c52c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/70 - Copy (2).jpg,0,0,3874dadd2759e809714ed181994840c96a1af0375371b20b8fe7dfe866219be1,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/74.jpg,0,1,8bdb86f64cd09a9a71175418c115c831f5e04a457d2ba3004c634b88bdd09ee5,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/99.jpg,0,1,f5c3e59f593b311f9de59a31f02a3ae18fc88fae85baa592fe60cb1346be9a12,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (1).jpg,0,1,47b6643b9eaade1cbd5d9dcf91b316f0a0a6b9de6fe1dd2cb39df7aaa30336a6,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (2).jpg,0,1,f574e9ba263696b768917016cc048320f62097ca8cf93a108aae0a98470ee7a9,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (3).jpg,0,1,df30533796cd881c1d0ee3d60f4c83d37c14f9f3776b67ed6bb9df4e481e2feb,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (4).jpg,0,1,c2b05f6a120fb77017fd06bc10a9b60589ac674af963518493e01cef16eb1917,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (5).jpg,0,0,166b4abdf3cca628179e97f2cf95d7d8ca0144952cf962b44c09e0a106e2fb02,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (6).jpg,0,1,27e076007be59aa058604e51078c17dda3688d65e13ce6d0daca1680e841ca95,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (7).jpg,0,1,67d06ad0545a0f410144e95da16b0ca61cb1e70f003539003436b295f51a1b03,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (8).jpg,0,2,2711635d185b6fc63e0b4ae269990f34a9f6cbb6543161f024a55dc800b67107,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/add (9).jpg,0,1,8aef9c2d632c571753e5ecaabbd98e89f4a4aa03e016aac15552e705c96915ee,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0000.jpg,0,1,22a0c517a3262ce8a0824af900dc65d5c3fbaf719d69b8acd0d231d152cb4f6a,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0001.jpg,0,1,9f52222d295f5f8324a2b135288a18e3c739a9bed748a890ed1d52f1eebcedb8,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0002.jpg,0,1,a33ce177814122c796d4e0015c4f532a44de87ba547ef1d4dd38f1aee20f666b,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0003.jpg,0,0,be21166f945724f39e84af96160118d7e3f4e18076313ed9e8cf3fecdedcfc38,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0004.jpg,0,1,3d7f4105b87c010a3458f47a4c1b657666ad72da3b25d3c87af4c85688a74473,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0005.jpg,0,0,0364ff44229c70666216343057f9ae77d82438a7f842b30af1ffabb786061a7e,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0006.jpg,0,1,f31ab7e2da5a515829a418c4171d46f98019b1c0f8507e17a086f6c3d8ca868e,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0007.jpg,0,1,9554dd64c91dca4936f985ccc716e05567597e40eafe00744412d12f2f353b2f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0008.jpg,0,1,9a1f344e5dabfef19a8d95537d2385d3ce7911d2fe56aeb9db0caa7ebd139f6e,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0009.jpg,0,0,26a589692adbfb07686f94439dd37692d73cea3a2643a461f89d3ff00a874d5a,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0010.jpg,0,1,52e6c3de360c807ba56b7b420c4d2719a876edc1c659fc46185442219d3af4a6,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0011.jpg,0,1,57c06210a9cb0638a8a2bf956947fc824e7ee7e66496071d946db1331ab4d027,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0014.jpg,0,1,60002d23befd80c56a82cc08393bb6a92c4cd8df7553d13f43b1424c6909767a,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0015.jpg,0,1,eea4b5348ace5e0be1595c43054923094a23dae6a582d934c1874f5074a005c6,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0017.jpg,0,1,aba4618ac203e8a744530202f34cbb6b9414f18c3bb4cbc195ed48b522e3e85c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0018.jpg,0,0,7d8b3fc47be6582dc534c967d8b83b0f18021691e73cf78a792e45dbb86cf183,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0020.jpg,0,1,5657fae9874dbfbc2a8a7d3157ccd32495e3644a93e929042d7343d9fcd231a2,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0021.jpg,0,0,bd40587bc377fb2a7d76e4510d9265259268ed18c2dc33eff56260eebd9e259f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0023.jpg,0,1,bbae64a817351175ea885584a9d9c1d7f10477eb8a485b54603362be915cb1b0,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0024.jpg,0,1,d7f96e7e97a0a966089fd5b5d1503d2780612822168ca91c1279e51bea70889c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0025.jpg,0,1,8f22a1471132f061c984e6cdb3722ef1dee08e68374dac0d92aefa873151dc62,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0026.jpg,0,0,f8ce8a1f5fc8d3740c2c222a34f3ee9b913c826430908b8297718c53f7299b6c,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0028.jpg,0,1,cbe51b12bed91050e1a2e1e296babe20222706b67ee057ae70a9959d7c8a81e5,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0029.jpg,0,0,c391719209bf76e5cf0f890879e5cb2f782da8ac9739c4ad40f99608ac75bb1b,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0033.jpg,0,1,3daf7ab8522d4b60f357ca286ec123fba128c9fde8cf133987bc58afaad06609,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0034.jpg,0,1,c94d957b20467558fbaa1e393e9676e29dbfaa2b85c8563cd5b920a7d16fd77f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0035.jpg,0,0,440c5caae1739af7a4e8530fd16cf3a5d450a376ce315fbe0ccab2e326139606,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0036.jpg,0,1,64a3a68af6f99f6eca8e566f244277ed9626f281d605baf267b11ea0f080bc86,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0038.jpg,0,1,6cffd71043ef009e8b3e57d951bd4ab0c21f50f6b2ac7092b5c71458f098435b,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0040.jpg,0,1,547e331c061bb24295a6a43832e9a237cc6deadd9cbcbf73e457af50ba16455f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0041.jpg,0,1,73b3ef8bd08f1282a8a9d9cbd57add7e1403934d9f2c15080c1063c061c1a7f2,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0044.jpg,0,2,5aecdc12a21dd04afaeff0d8a4de8439080f752bbb2e551c00f8c2f3c9582a79,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0045.jpg,0,1,dc7bff709113ce3c29528fbeee0f46cc8e53fe4d56d1d7ff3f78ec0eb70199e9,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0046.jpg,0,1,8d07628aa16e27175a58db3f867c6b19aec354c8f70a287781a70f37260c85ac,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0047.jpg,0,1,4c78924f800412bc344e5eba4686672e3b6b2d1a5eb8e1d95f9447008b29c03d,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0048.jpg,0,1,76019415a9e42495f5614be322e80e68be00c2fcdc5c9a920d13b107f935c5af,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0049.jpg,0,1,9c62af6b17048475fa9aec97a52ac7809042a8f780af0bb5641000a42900fc70,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0050.jpg,0,2,e8a17092796442600a931428025bf13d61faa4de251a6773b78b49429b69f023,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0051.jpg,0,1,b778f2b82bf76147d42182d005c883a0537cadf990f7376738e45928c937f3a8,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0053.jpg,0,1,c69b45bb1eae4dbe393eeb09989499553b398b632adf146c2c9ac4fc0490077e,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0054.jpg,0,1,b4b49788686a7eeef1c9e9c768f1815d744264cd5b818b44bcb611ac24d520bd,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0055.jpg,0,1,bbb293604ca89549d3a7d69f77ffd0541dce1bcb65138d1b0c672291001d2fb2,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0057.jpg,0,1,c077b32c0713fd8897ca24079ffc1dbfb944fbfb578a92f8e60c7ef17aee7333,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0059.jpg,0,1,3938bf882e27ce6e4ae3a55e632cc00e0777cff3ea76412e9de3a2665fafcddd,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0060.jpg,0,1,e3fd8d7d889f7f90875478bb767482b65f52fa10df89f0b26252ff0bb22b9a7d,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0061.jpg,0,1,cdc37c2ddeb38dbc64a78148f64223230a486404ce9ee94527751f0fab41e6d6,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0062.jpg,0,1,36bbb87807b6367fb188b552971c5e68faa0749f068113d5ad016656db6717d7,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0063.jpg,0,0,57ecacb6f47957c4be13d1b99772608ab439aa52411c5a654715cc733727c8f6,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0064.jpg,0,1,0fde06869734c4f2858d36f53a77e47b265949d3ed2947b859eec82767ede3fe,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0066.jpg,0,1,d8ee0647c3a7693e1f8e7be54a45965d7eef188a9a2e6ebdb2e723fde7315605,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0067.jpg,0,1,aefdf05c671e753bbf766f5133d306c79e8b7849ba37e76d7da08cea3f196e49,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0068.jpg,0,1,522aa217104e9de067547f2712c12764fdf9f9e576112b4f46d340c0fe0ee6b8,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0072.jpg,0,1,f85f41f703cfe9bde04202f90bf1e0ee8d7cebc5462f70499ab5cb07d328a8a3,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0074.jpg,0,2,3c831cc7a50498e01b27eb8c1637db8d3133d409eb6cda5979b7ebed7e4606e0,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0075.jpg,0,1,bf10cbe3534652fac05f34db73e5ffeb54e4b0d6e2908bd216eba5829688a20d,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0076.jpg,0,1,d659cf4a7fcf96bf3a723e6a7191b70d03dcb6e08070b1592c577d3ebda72579,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0077.jpg,0,0,e762abcd32151ab834a9b02b716c4f45156b1c3ea246558f9b3632ca2b42aa39,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0079.jpg,0,1,ac1da14ab2a6c4ad8a5731af70a3a91b1b0feedc3f4e92395480e9f822a8cd13,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0081.jpg,0,1,ec2075ca7e28244983e88621bf0a125d403a3ded02fa597edd6f45c3a36bb81c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0083.jpg,0,1,f633f8ccd33a09346b21cbf138be1897a3d54571bce2281b7811587b22a9d426,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0084.jpg,0,2,77b10b50d03a03639fda527fe4070b86329417ba9cf1120a07981c483e2d3a91,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0086.jpg,0,1,b4c2a4ac111c80338ee7ac2c3f8b5422eb48e57c55b3110fa0bca4237f634e9f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0087.jpg,0,1,f24aaced4f1cd8d0affdb7c3f3666cb67863791e7b4d403220dc9e22590bc20b,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0088.jpg,0,1,51b2893e497a0f1ff56b61dc918b4e60daf3948fc10d246cc727690f48d7e30e,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0089.jpg,0,0,cc9de6455a43072a532e6f6daca112a5d85ffcff2d813e108093398ba27c205f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0090.jpg,0,1,4aed33d9536581946e10049efb7466192d022ff9c76cb8ce9124e780df5de801,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0094.jpg,0,1,e59b12f28e648f602084e99e9494a7cbce884ea4c249ab460a1ab306e24fdd45,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0095.jpg,0,1,74674ea1d34a5d6a9e74051daa86c184644c4b341dadd8a1250b565639eac659,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0096.jpg,0,1,d335de0aeb36d5127592a6c5b33cc02e5e9e9bff688500e71cd338736329cf1c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0097.jpg,0,1,ab40d0afcfad845ed590b72ee03264ca6d4c68489c00bb0b8bc6ccda58c95680,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0100.jpg,0,1,8bead44999d1ac53fcc577b6d862a1247a99c1f7b9821549c5e0975ca26f88b1,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0101.jpg,0,2,f131ea8d5ac621265561bf84467c5d94ee405aa0a05b962233e8ed5667171d35,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0102.jpg,0,2,e6813ada34d6557b4be2cb633640c24057806328db551dd19d2da3dcebcab364,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0104.jpg,0,1,c457a0d88386c7d1e9bfebe865d3cad6dcd311bac12b871b84ec360e704c9daf,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0105.jpg,0,0,7e7493f911884e9e50e6b37853a00f084573f0893efcda1c0780516f5974eb0f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0106.jpg,0,0,522bcea70d2e267a58b3d9aa153bfae5d199879d342d3eb12abfc73b6da8468e,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0107.jpg,0,1,4ec796abecf180b6029a8f52638d82593a56ef971bb0ee6c82f246654a701dcd,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0108.jpg,0,1,15dc83de9e2a789f16a420709a86592d64eef1c368a9d1fa6bd4b5eb252fec03,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0109.jpg,0,1,71d05247c8514223aafb741ee6854e41fc45de5b6be726118a8913d7caa112b4,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0115.jpg,0,1,b2322c4b8a221c837f11bed7dd22f88f2ec752b00f37948f8ae90be14cb7c6d4,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0117.jpg,0,1,ac4695d9de34f22abfc5de6edd12977f602ee51bd52925dd80a5088d28c61142,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0118.jpg,0,2,61684cd8f16dafeb5cbb6f7f97ca47bbcc48ebe73b298e47493d84603b4b75a6,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0119.jpg,0,1,be843a30aae128310f917154e366ffec0ff15367c0738279594fb1046dbfa3db,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0122.jpg,0,2,1e9301942aa8b701c968af697b02ef0ffb347b086bfc0c621dc3211de8556ecc,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0123.jpg,0,0,eab614aa21d9cde671b03aa75db8235d90c78ea114c5081802b75ff1791f0f40,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0124.jpg,0,1,2e2ddc693c41d4ed0389108f5240d8a871c4090afba896fe57240eefa5895ba5,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0127.jpg,0,1,b9889bdbbafd2f34d75638a524c64badfb1525123ebbc5ca5cf907cad0208137,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0128.jpg,0,1,b4a0999ce8c4849932eb5fea7d8efcbac407c3ceb35889965de70467542df464,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0129.jpg,0,1,fa9d85c50af883bf63d2fdba50dc6cf2afaeae282480ea28330d91a2b153f352,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0133.jpg,0,1,082435cb1670a93b51db818da5eaa756f54145af2ceba8a90c407fc2f810c30b,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0134.jpg,0,1,0b2ce8406fc2eaa345bd0035d7f79ce7d9a7858191e178be002621cdfb050877,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0136.jpg,0,0,b234f6911b49210a7ed51fa56f91cc8e0cce0972d6fbebede41bacf888d6c768,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0138.jpg,0,1,f238fb0ed8b86ff66b6e318f7fffc37ca634be731a3a85467483fdde51344831,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0139.jpg,0,1,e3e0f3b699e06c5540395a250f142e38538923f7ce167f09c2e00fc4993adb41,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0140.jpg,0,2,f5d62e2b25a39acadb6f68067b3cd8c0b14cfb4a1ac378560093570aa07082b7,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0141.jpg,0,1,2e588a6e26343c5c97347b1a693146db2949f5d014a615fe08133f9e27fe7135,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0142.jpg,0,2,091a71ae59d1af441fb29bd0458437f68fa7db2be806f6b4b8bf504a155ddc31,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0143.jpg,0,1,720b46cad67dad76c5d6e7d830471d8d0933f3f11768c7547a69c164bf186ff3,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0144.jpg,0,1,1680ae55f6518eb1b9b2eecd453e72a114165fa254be7b9864f2d69f1bded7af,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0145.jpg,0,1,f10bd94f9735754c00e331cf86c744965f422be973ce1f47a2f8933bf377e114,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0147.jpg,0,1,68ab0475c9fa104b8e0d8d14d85cf84cafc57dd6fdf64b99839b932dbfe12a8a,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0149.jpg,0,1,b58c175566d29da72957f8bad2c33c48dfbe28edf132c15625459572b172e2b8,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0150.jpg,0,0,fca8fbd2b326aabb066565d89516959fb8b250dccaf914cc5e1da3a90d2cc9c2,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0151.jpg,0,1,2f006ed548f37cbf41a1cbdf39b5c9d79a7ce70cf3bb2f33e0613e8205036d08,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0152.jpg,0,1,b6baeb77b10174afadd0bc964c17579062fb5ff208cc01e960ee14973bc7876a,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0153.jpg,0,1,b72367772c610c94f90b3f320925b59fedc72db0c7dac4fe54119252d630801d,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0155.jpg,0,1,ae9aae05dfe2d9d04efa3ded4fb50b817702f2713099e201356a6c258ea49ddf,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0157.jpg,0,2,13393e957aae132d44da15f12854314f5f06e4b7ad766a3a16012798890612f8,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0159.jpg,0,1,e351c41c61d809ccdfc471293ac962dfb700aafbbb98c07af3d424cdc3978bc9,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0160.jpg,0,1,437f47be9b7fb67d09d00b0f5fd1d992e2a2d0fa66bef8319e832ef6a8673686,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0161.jpg,0,1,7489f1d1ac115dc97465ea92fc028c656ac3ee81143e42758f86b8d07c5a14c9,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0162.jpg,0,1,6a88459c2628021fbd4a90a0035b57dd3d178383d0f5af65497ad60b0d66e269,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0165.jpg,0,1,6fb9c4c4a08f897227a4229a10634a961636639a5bc8a31964c65670b53984ab,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0166.jpg,0,1,ff85a84e80cb533018c0062c70c6d77cd4f0eb9484d0e7dee7f1debdef7fd744,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0168.jpg,0,0,cdfb672c066f0dcf96c0e0d9b0b4ecb441d27451d034fa411587b9c6a29f2a7e,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0169.jpg,0,1,fdb54bee8f7b4b11d97ff1b99edefff8b7eb0a702c6d59c570a4f4159ea9574c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0172.jpg,0,1,32f596d8304c10a4e6fdb268b1d55887a874b284ca926b0fac789483abc0917c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0173.jpg,0,0,56190fa47e4c9241bec2f82c706afc29529629f963be4e5c0d22cf6157d49c3c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0174.jpg,0,1,da28aee2e9e41c98a8a67cb78a18c9eb2829fceaef73ab458044330faf8a74e5,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0175.jpg,0,0,4519c9cf83786168e00ccd273929e4fb913451a04a3e66a908016382338741db,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0176.jpg,0,1,7959fca57814573b285eb4291dd855c6ef47e7fc8c1c23ef7c2228fbbcdb9b69,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0179.jpg,0,1,2f084d2dec4e57c1a3986920f111c5309059178df3464c5169e9a4262c2f32cf,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0180.jpg,0,0,cd63b4975295fc81fa52718dd2afc85e225d1047bf44975050d7e0a7712e0b01,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0182.jpg,0,1,28d708038148b2a26346b8778ee317de115b95cde0f0742750fdd17f8e60e28a,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0186.jpg,0,1,762a381c1ff369fad69021f8549fde5fff50a475b308e7d43c9bae5c91b0e813,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0187.jpg,0,1,02d001894eebce195c0ba1c426be3ec6b2c6dd02020d2846fcb29bde2a7f5617,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0188.jpg,0,1,bdedd119f302deb5b14944479fff20bf6b26acacb5515c6eff04a3bd7fcf9ecf,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0189.jpg,0,1,b37cc83faa76c68837e2595fbd89d96b267c213751b557a470e719d3e4deace3,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0190.jpg,0,1,8418fc5ec7311e11f55b7eb3ff17583087f9783468e3f11ba81a45a09c302c7f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0192.jpg,0,1,ef1a58b24eacbf8c3e4e9a022e851d63469cca3bfc615269ca9ab4c726609f95,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0194.jpg,0,1,0eb59e81cbc0a4e54bc221b24621010d652ef532e981e2359877e630fa9becb8,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0195.jpg,0,0,0ca01c4004048dfdba59666305e01d872cb67849d763b18e38f2d4d7c0415bc7,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0196.jpg,0,0,93f4f1df019edb7c98bcb091de65a7e733ab3e301d4e7779987593ef1cd5fb1b,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0197.jpg,0,1,80510e5343c99b1a3f50fc50b6baf644fc70c483ffe1fa748bd61c575d9348d5,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0198.jpg,0,1,3f767d4dcbb20f954a03ef43814f7887dae7471c4c8ca7b04db642adbf09afe2,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0199.jpg,0,1,974b4c233a8f2058b0b80ff511abdd12e64c3b5d3273dee1b3ec4e725c71199c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0203.jpg,0,1,570ec67a243b2c5088fe968b48c0c6810a41ac8d8f3a24314bb781d9ba2fae98,0
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0206.jpg,0,1,b516f070d95d18cd3f2a64b8b4d75a749b69e9715450301741fe766b9a3dcb8e,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0207.jpg,0,1,3719bb0c98ab01e6149b509fe42f23f3577b1953783e8790785835cc484f68b8,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0209.jpg,0,1,b13e852cda1a1a41496269ba4766e7ae1812a85a5c1bda7640c6dfb5933dee03,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0211.jpg,0,1,644a335acd9892e2cba2d653628e5468f8930c3fca1ea0d65f420760ae0fbd88,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0214.jpg,0,0,17575b008ad644896ec5fccefb358195b76834eb10fb12446d2523b3a2251292,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0216.jpg,0,1,e76c38c0f7aeb589472096273c676c6dc1236f24aafedb784a01607097e99199,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0230.jpg,0,1,fa3bc86471795d463cefc928a78a23c05561c9e905aae558bdc71e247e23f4e2,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0233.jpg,0,1,3559e16d87648f6548d7c89fe20fa7e5603b2f5f248bdfc0bb4f203bb0c1e0f4,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0236.jpg,0,1,31662458d8ae9d1ce45a902a56a24f4283a3641399f97cce8ee0d60629d988b4,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0244.jpg,0,1,f82c8d22611a2da732cb7369daf6ca38cd892598ab070893e2218a657e7dbec2,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0245.jpg,0,1,303fb242409baa93cf27f739839688b3ce0ba2aec92f069fe25ee9752d0f2b3b,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0246.jpg,0,2,3273025cf16492e966a2dabdbed02f7444bb0f3b9e137382df1a4fe0f3f225a7,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0257.jpg,0,2,651fc70d330efa7d4caf88ab800c794d4ef63cba79ddfa14d472ac5020de8367,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0258.jpg,0,1,3a1427d508e7a90945fbaa70e607433a62d3b6db16e98356a1fc44898be94af1,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0270.jpg,0,1,15ff466f370ff774c7084ccdc925b28dd63091269b39c2a417b3f7b09482bede,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0274.jpg,0,0,f813c032bba7c144612901fd5d01b6225fd4a2dbc5d431dc231462af31170e00,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0286.jpg,0,0,a44a5def4f8a2557b0882c92f789da1026f1607ef3c33ed90d43bb0db6930c0c,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0293.jpg,0,0,770e6af3dc309a8c218a25cd7914e41b2ed472cfad6c6525cfcd8ea9c258fe48,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0296.jpg,0,2,669f327c75de87d02c9c8b339b533ce09dd0ac7ad17ae3b7eea68e50be9e5c30,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0298.jpg,0,2,68b1a3397b7fffdb102279801c4bcafda1ab08ab11b61c4f48acb9341ed6ac92,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0300.jpg,0,1,7a06db2691f10804e58f1a16fa7c7c1ad50d7836021d4dfc9e4892ea0f79dc07,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0301.jpg,0,1,3d0251d60314c8d7a92bdffaf5026b14aefc9cce3584f4588dda9ea5d0de61ba,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0313.jpg,0,1,200c606bb7f73d111c3d027edce4c75d270bb8257ab44f0bdaa023ed34603ab6,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0327.jpg,0,1,c036a243a02132b1d3d2c146c7cf09b2a369adc105ee12388c7b6eb70838b3c5,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0337.jpg,0,1,2b8e1d97fabba7b3a182970d4f1a2fa90841bf30bb3da6b3ab161de5b553272f,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0373.jpg,0,1,14153a39f175f253d929504799b3565b1952cb60d297ca8fbc38d6e855663b29,1
+data/raw/plantwild_corn/plantwild/images/corn gray leaf spot/google_0385.jpg,0,2,ccf38ab14eaf5ee8684fff224c5c9a1c150853c6db9a04dc65e18239c0d605d0,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/1 - Copy (2).jpg,1,1,354a1da00f4da84061f3e741112502189ec03f5a24990843ca423df4952fc4e4,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/1 - Copy (3).jpg,1,2,a4abf36a7c8062a57c803dc1b7ea64b6d22c8b453f5dd11a54fd86919e1b3f3e,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/1 - Copy.jpg,1,1,0ad23bb158f60720b138ef6bc67ef78f3d10f6a7828b6aec4267d2739f420203,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/1.jpg,1,1,50a319ee5ea483da2c91a7b6fcaff1e478a026acb5112318f6f9d11a98163382,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/10.jpg,1,2,87099a89a0b4796d4b48046de8a8a31703d77ae3e26ef9dc61d45c7eadded1b7,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/101.jpg,1,1,183c73fd2e6cfc539200cdfcd2d501f57927e3dcc8cd8b0b56b68e171afb3f0d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/103.jpg,1,1,754627efec1e211865a9c768bbf8a68f4a1449adce4415e377aaf13406795819,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/104.jpg,1,1,47d83a2e99d14b74deb413c422b4b36ac9488ee7fe944cfb9ddf1b0e970d797b,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/105.jpg,1,1,8dd75803fef0cd0d906db51f5c8de100531a1ce592be8163e85c827b5880b844,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/11.jpg,1,2,226a560e9f3256f597896b6c32123c54033a42adcbc6e279954f0de808e11392,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/12.jpg,1,1,40177e2f7587e926fd37fd45a0e9615eaadb403df0def1f0897d7b52128dc928,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/13.jpg,1,1,5d43e7f641882b197841e5d331c8c87814fd5a573cb27cd6c5738d259d70daff,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/14.jpg,1,1,d82a2cc822c27cc34783e92f9c6e036b37ce9147dd59f62eff646aa0ccd00331,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/16.jpg,1,2,d923a19774860e493796c7889baf7656031ce24669c44401620e203c9dc559b9,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/17.jpg,1,0,765f04f62e0800cf47b5b41932ffec3e4fed6767e4bfd2e332e2f7a6a699455c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/19.jpg,1,1,4176fdb8323baabe1be494353e35a8e7c1b207c71dacaf1f81ffb5a95cadfa27,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/2 - Copy (2).jpg,1,1,75754ff7015bd0a2f9f4908f30d5ca721ab461250167a92d0afa94b035f16638,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/2 - Copy (3).jpg,1,1,40bb51b0e2861c7b4b8e4a7b254bfbe9da639959fa041e324051e988120badad,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/2 - Copy.jpg,1,1,50fd8ed17e5addcc72852de65086e488c497481b72fd99c95d3eae607542a996,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/2.jpg,1,0,94d9b6f442640a56df1b4fc437065c4ff439fc6841699bdfa5e091b9c8b07b56,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/20.jpg,1,0,45c3a0667e848735e9b2d0b66a64c9099a32f956c246464ab8b5af01357bf84c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/22.jpg,1,0,862d20653b9c17ef3036032abfb2d1db9641959392b99803494022de6c540288,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/23.jpg,1,1,0bb8e7550fd502507bb65dada37238eccd20b689656a29d3da5ec10617f12de9,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/24.jpg,1,1,cf95d0e5bc21c31ad16538fc7bf81927d9846de5b7730a3928721f5762e0094f,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/27.jpg,1,0,879de983f0a6ea328cc7a3f33ca95c762987a7f8d0fd760c6cb8642c9f3a9588,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/28.jpg,1,0,a43d3e7243b0143753f2ab5f407f8c2dc503082b300e0f55af175d372e2a99f9,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/29.jpg,1,0,3a1e853eabf1bfb5a15b02a9b8a66412a8d25934a18c44d56365c34395b77827,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/3.jpg,1,0,6166662e4dd6e54326b218b6f2c89f310f45fe2680e9b4fa04a7e2e488146d8c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/30.jpg,1,1,b86bfca33a91ad22ffa61316b04c24df1c0200ef0157bfd41d764a23d5e6a40c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/31.jpg,1,1,9c2784d88d1f20c7f46ebcf7a9c0c1b86ef713f54455dfd0d99ca0f5537cdd9a,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/32.jpg,1,1,4d36ed512cbfbc89619a7bc3d101eb2ce831cb3acb9e6229e4362815af6f6a34,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/33.jpg,1,1,c31352257fddebb6d3e71691b8223e87f985a07f1cd3fc843d7597b1697dfd2d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/35.jpg,1,1,04c8e14bb20733dc816f8c589c2b5c5daa3044acd84c7572e57ffcf482d83fcd,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/36.jpg,1,1,9f5ec86b7992fe7137cbcfb6e59c5147802626868490c34afba3bebe9c03e433,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/37.jpg,1,1,6288835224c95ebbadf6253c9050df65d7864b18949faaf9d5a31faf8bedd316,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/38.jpg,1,1,3cc55ddbf67e512e286bd25647a2f8ea6cd826aca38f6e84820e2b01dbc45f9e,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/4.jpg,1,1,476ce2c585ccca20688777d4ec8606fa2e224061e2ff9befc957639934c9bb84,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/40.jpg,1,0,81bd8f76adec075489dfd0545844e7a812c3ebfa4f3fc19a04944ed21a9ab42d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/41.jpg,1,1,560979889badb38ff05c957ac391ef9613b84c47f02ff750fd476582e9b2f844,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/42.jpg,1,1,d55d03edd139536cea403bd68f00c915eb65749f65cee4dc6040f325f1b72b7a,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/43.jpg,1,1,1673c7ba8d950e89a8cefb28b567ca7cea80f3b68dd58736581498cdfc0f8a1a,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/45.jpg,1,0,069e71beab09f11663c95da2f8b2d29b6592b330e8b3a3206f7949256b2fefb3,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/46.jpg,1,1,51d1e3a26cdcc91572853eb2f59e48af99af7661221211594721b53f2cb196f5,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/47.jpg,1,1,687a8aff0db0c17e6c64a258c40bc9227bd364f3cac30514ffb150c45528083d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/48.jpg,1,1,46a6c1b0695685bf6eda858a683f64d60a612f2d5f898919b4666a52c99620f8,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/49.jpg,1,1,bdabb198a2e704d6e934caf142a677df0776b02e5299f54bb1be1094392dceee,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/5.jpg,1,1,d02ce16630c3a7e9face42eeffba7514ff51c68a9066e8e67055dbc60c812cf7,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/50.jpg,1,1,41c7723e9b3bb6442dd3877bdcf5af0c9eb372d0b9e4ec96eb62af495fc5a31a,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/51.jpg,1,1,4a786686fcf94a63c51cdb75a8383d666040f48ff59a16f1e6d721ff49097f6c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/53.jpg,1,1,1d0d7bf9c71865d5e82f58108d496a040b526cb46840c8756e1c166f0f177df6,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/54.jpg,1,1,1ad07eeb8f4d2686ffa6f3cee7a7de0d26b8d243b87425f055f56c68fa1501ef,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/55.jpg,1,2,c272fd593680eda42d42bd01b8f168817cbfee015d79934bef97e8a1d4bfec5d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/56.jpg,1,1,3ce61581ee541be91b7e4b060cc3b6be82959bad46e02fa55074b99b4222570f,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/57.jpg,1,1,ab048684132a1ff74c414773eb928f03f476bf586adc239b80d4593f278673d3,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/58.jpg,1,1,9086e290ce6e7c207dd53ae9120d9efc339e37baa96bc75cd478974995dc4d67,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/59.jpg,1,0,625f3a9669614a5385e6fc82107d5e53a35ae0cc3f17bf32bc48b9d7292ac38b,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/6.jpg,1,1,f1b2d15223ead4e407d54b98d01b538e5971b3bf0543e5ffbb91f10f99805aaa,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/61.jpg,1,0,8d37a4eceef82ecffb2eabd07331615d5b4606acd6898e36e07792944e743117,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/62.jpg,1,1,3e83482c13b2ef9e3f2a4cda0e922789d92b25cccb1b3532300f1d8b7d881270,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/64.jpg,1,1,79e7e32fa9190257063f23546f4a06756cf13111ab14d2fb31391059d3e1cde7,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/66.jpg,1,1,009db1a1d1f663dcfc848a5292c310c867f4a4a7b7a2ab1dbc961e428369c266,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/68.jpg,1,0,1227624519d96049bd7267ab3d8d83db2873aaf220807d7ce116c9e8ca9cae09,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/69.jpg,1,0,28efd90815f26bbca1b6ac64d33dbdcc3a5481da1b3e84022bec27ec6976c0bd,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/7.jpg,1,2,bb777c84b6ca391d202d94bd622c45e255c6eabaadc6c39e38d19433409d19e7,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/70 - Copy (3).jpg,1,0,18fc38cf0e2c9719ae0b4056295ab9a0565878c0dbf773047ee3735a774dd381,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/70 - Copy.jpg,1,0,fd89423147e6c2d020ee759a38bbbef363b8edee317765694449ce3d3589f5ff,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/71.jpg,1,1,211a6a11a2c4284ee60a2ac7d769e526af5b27191a6e088ec44ed3304bca3eef,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/72.jpg,1,1,2e38cdb83e2a74734357c6d6b84d48cb1be89897fefb59d37e2e1651dc00388a,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/73.jpg,1,1,aa87f9b6e96ddc742f7ea57cf7183fbc9824b94e848c46720b61ed294f5e8dce,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/76.jpg,1,0,047893e278bf371ea797707b2b2816827ba84c4b52159fee085be96f7d48a262,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/78.jpg,1,1,43f13e12b22b2a0eeb5aab0bf04313c5ecc59e135840c6adae19da79dccb0816,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/8.jpg,1,1,764a2e1c26975de90cc32de5b1b5a9510184e07144daaa9e138f97e5b14ba981,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/80.jpg,1,1,8de68a9ea9c30275a9c94b2339c69cfaf4eb65ffe3df1685045ef7cb434d6d91,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/81.jpg,1,1,37a93c7aa4b03f926dcb0000acabf8560eb04f484dd393f496c73952e7311f6d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/82.jpg,1,0,5dfc24b2f14b3b511183f7a723f82b1cdf6e67981b92096eecaba59e2f36aee0,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/86 - Copy (2).jpg,1,1,dfa19c4c790c2ac07f7563c21f2cce1a1447507c54e5b5b39ff9729398de4a36,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/86 - Copy.jpg,1,2,4a23efe6fd20c3492824ff267f97ba7900c4389c56f5f6c61bcb239cf4e7156d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/87.jpg,1,1,4119165d55210d8a8282e0938dbe616867d26d24a274146e300430c949207e42,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/88.jpg,1,0,667ba41c9ab1d174620097c36966de44fa7aa4cd0f589537f6df09cbd8ba8224,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/90 - Copy.jpg,1,1,5b8b665976cfc10976667ae128629ebedbcfa04db948dedca6df41e966c21afa,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/90.jpg,1,1,3a73674bebd1e9dd936fed8d02749404eedebdfbfff13ed51995cbe9f4d6f97b,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/91.jpg,1,1,e0723a34054fefde616dd2f1d191fd22a87d8f78871c73edb987a87ebb36ecdb,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/92.jpg,1,1,41ca6a410e242d8b930af392854c71981395134c5b7d2979f4a587ccce0bbf92,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/93.jpg,1,0,633a7fce4013754aec9391d4d19e286572374e414170294fdf386b5028a33145,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/95.jpg,1,1,867ef8a5c50f5f2f61604702e0bb238ad133a79af1117377d13cb452a4c87d3d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/96.jpg,1,1,d8dd3d200f456285c6225f2ca1fa05fd2c0eada3bd4d850e7bdd4e9065d736c8,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/97 - Copy.jpg,1,1,07624c02117dbb43e5d9001a92283c50842265f4a8489e6a82f76218b7e12bfb,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/99.jpg,1,0,e90159198cd800e6aa8f78658829591cb4feb445a696e1c77512ed71cf89c51c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (10).jpg,1,2,31822236db31b46c4d413795c876f6dfcc28f59d9de17bbb63e2b4d0c658cfb2,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (11).jpg,1,1,203a333bfe34030a9dcca3bcbd1146c01423af294aba35faad38d2b09e8d69a8,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (12).jpg,1,1,bdf798f1219bf1d90f05f383e1597381adb8b6a713c03b41f402d5f5bdecf2f0,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (13).jpg,1,1,69c12e41d6a71553d9a8cdcac742002b272b526facdb3d1faa64fa5bbb085f83,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (14).jpg,1,1,621528d00851645d3f0fb25926eac43d156a34ba36fa47944fe27c7a5ab27bcd,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (15).jpg,1,0,9280368476fccebb22732a4a67f480f773b1f7dbeeec7485c6480f013d759d57,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (17).jpg,1,1,41c7723e9b3bb6442dd3877bdcf5af0c9eb372d0b9e4ec96eb62af495fc5a31a,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (18).jpg,1,0,0d335f5fc3dad0b1812595e6fb8aaa6a72813ed70cd285c5fcef3ddfd48d6da5,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (19).jpg,1,1,5bd11dccd5a3d8ae186b4c1946e71730b181b67538533e37b6ca8ac6d496414e,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (2).jpg,1,1,5f5d42352465b8b7a1fdf59b2e3ffb6c54759d4aa5d1a1b91cd4b3d5039dbfc6,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (20).jpg,1,1,c5a8153f780d7ee7d0744e92be2a51e28612b5a95cb69c7b7dec9c5d60972b5b,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (21).jpg,1,2,5d6464c49044a8a1f2932bd05aecad24b403047195b380a6063dd9ab8c4b87b0,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (22).jpg,1,2,c4e02bd56c2fc5f819438e4e3152696399903615065b99ddc58b44cd6b101329,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (23).jpg,1,1,c968f9945502676d387dff9cc412403f3f811c841a375fd5d201890475faee6f,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (24).jpg,1,0,b35454dccff1a9a42f8fb68a9d9f62b4c8847f5c3f3deadeb5f13de88940b452,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (25).jpg,1,1,b9a7569d700947a134ef264d90f19f43d4c51d6b5ebdc15fbf41f01f076aaa58,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (26).jpg,1,1,0510da474b957264b3877602239bf46ac2d072ce3b6b7ae0a45c95f9dc853fb5,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (27).jpg,1,1,539d7ec21c46999c397843f77c202bbd1dd636e2088aab5978d8190a73a80188,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (28).jpg,1,1,bedabe0d53462da953c4ac3cf42918e67dad5930559f61862ee0b7edf165915d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (29).jpg,1,1,0f701e9d425ead0061d02d90739cb3d4e1a77db297ed7e054258e44dbee4b14d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (3).jpg,1,1,5f9f98662863bfccdc7a026b73eb591e7ee90bb6496e620b849ce401c2587c53,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (30).jpg,1,1,47d83a2e99d14b74deb413c422b4b36ac9488ee7fe944cfb9ddf1b0e970d797b,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (4).jpg,1,0,906f91b43df70661af2e3f61676b0e02993b552607c229f2afae6d18a64936ae,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (5).jpg,1,0,7605de02c65414be9973840b53c41291e1aa46f05f6e5b17c9150bc6d41599a4,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (6).jpg,1,2,d02ce16630c3a7e9face42eeffba7514ff51c68a9066e8e67055dbc60c812cf7,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (7).jpg,1,1,facedf4f02b6f0dfb1d6be56f58eca18a285383a000e59a6a84b48fc5a953ce0,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (8).jpg,1,0,40177e2f7587e926fd37fd45a0e9615eaadb403df0def1f0897d7b52128dc928,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/add (9).jpg,1,1,a87ae078d02fe67d42f5e31542b8e71192009e924e184d895baea6e6e7d4235e,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0000.jpg,1,0,b03908e1461536af4058603e754fca6b763b1c9c35672c0f85bdae4de720117d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0001.jpg,1,1,5eb7ab057efb8ed71fee5b329186fe1e6c0e3a93ad4717761a77592795c4439a,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0002.jpg,1,1,5903981420c863ed6bbfe7b8cee8ec3d23337cacddc41a1e6794b03c558ef231,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0003.jpg,1,0,b9889bdbbafd2f34d75638a524c64badfb1525123ebbc5ca5cf907cad0208137,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0005.jpg,1,1,2966ea576966ddced443f0e340c64bac3c27e3b169640cb22e292a85df473dce,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0006.jpg,1,1,ed360ed0118ba39d99acc7aa0f89bc0e3bcf6119999e49f9bed79fbeb578adea,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0007.jpg,1,1,8b2e477d69c3b95b0a4f9d31383d4c35ce6fff29d967a06594b5a8fa937a40cf,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0008.jpg,1,1,fc7db3debaa458ef576664dce38cb0fd7c26f0eaeebb399084b8edd1a72c70e5,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0009.jpg,1,1,af72275f42a21686b439fe06d70f0f7c5b01f0db425a8833f50e6deaa631e714,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0010.jpg,1,1,4eff9766b7332a0ec8980b5e8a440721745e9bfb380071145a6fe00c9cab2f69,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0011.jpg,1,1,9823022d8658cf1825a5c344f85b5b5c967b79d7d7471c790841bdec1d89f72b,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0012.jpg,1,0,a955198039868c3238139af524203fd75fe98f2340553e5c9446b240bcf5de96,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0013.jpg,1,1,662493d527bfc6b13bf85bc2f3a1910d93cddac9e9fc3ce565d6d86de1141fd0,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0014.jpg,1,2,5a7d4dfb6a23d732040662ccc9db6fc0860f9c0d008cf60ed7638a649ae8689d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0015.jpg,1,0,d439cdebd2b47e31241ee3fde2eb59d80086bff68a1f80a5f6b4e8a4aa1d4faa,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0016.jpg,1,1,abf04338fb9ad6ef033ad7def4995ba43353e0f7123587275902d11f8fba01ed,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0017.jpg,1,1,88e6ea4103a0d4ece7c08a68280c8f8c4c15123ea85d82c158e59067774f4826,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0018.jpg,1,1,4e253b9925477d3bd4a3aa19d1a1d89796b1fa83da9d5b6f44007e5f0ba63b80,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0019.jpg,1,1,49b93e62bec5b027eda0d618e11b6bedd1a1b5ea5a87160de632e242b967d5eb,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0020.jpg,1,1,5fead7eb53228ab43831ca399a6db220e440291f6d3da5df709b8bf2c6011ebb,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0021.jpg,1,1,5f29c57dc0d2546e166ed59421af3df0f83554afd2f8e063fcb02d81ce0a972b,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0022.jpg,1,2,79cfdd6d389f32fcea3e801aeeb9feeb7b525d03f38ef38b7f69246c2ad29bd5,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0023.jpg,1,1,64a3a68af6f99f6eca8e566f244277ed9626f281d605baf267b11ea0f080bc86,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0024.jpg,1,0,522bcea70d2e267a58b3d9aa153bfae5d199879d342d3eb12abfc73b6da8468e,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0027.jpg,1,0,cfc7e893bb935d79082d4174e10320157b00c1fb5096f388f0e08af85be91120,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0029.jpg,1,1,372fafe51bf696677b09e5e77f80a3a9f8eed5a7e4a7752f9d2646eacb0b51ff,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0031.jpg,1,1,cbe51b12bed91050e1a2e1e296babe20222706b67ee057ae70a9959d7c8a81e5,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0032.jpg,1,1,bcf5c5eaa00102ab63d5f3abf42e5d06b942a54ca91a774ec9727a73403a864d,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0033.jpg,1,1,e61abf2b2c97f79f294aa9a77023d04b6dd6aba49617bb80c9919da25bf4f3b6,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0034.jpg,1,0,774e6603d4cad17f7d19dcc4d87fdbb8e2b5fff6137bf49a726a7048c99b2771,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0036.jpg,1,1,f657348d081edb680c584568291e2ef1840e601e988f1e6f7bd3df1d8de9f39f,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0037.jpg,1,1,89505151f1435309f15791895f91ab36fb49499eed823842ac7452ee70b6594c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0038.jpg,1,1,734d4bcf1d310f906598b5a52130fe351cb9b3ee27c525f046cc383986c7b31b,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0039.jpg,1,1,e7efd025a45b7b9e43960e0092255d49b8a75356e8c07a326a1980629d8cbc07,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0040.jpg,1,1,ac1da14ab2a6c4ad8a5731af70a3a91b1b0feedc3f4e92395480e9f822a8cd13,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0041.jpg,1,1,85836f19de56517f727e29779ea19e4a2aeb412ca838f3f83f32af36daf749a2,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0042.jpg,1,0,59028e4b9037356b35cc436211c19efa74179cd6ffb88cd14b9fd84e7b138a62,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0043.jpg,1,2,cb11dce1e9ff10f2236c857b9a06ed3817d5004fd1583bb996f46e04d8c098b6,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0044.jpg,1,1,1192a057fedb1148cbeb8e9c09ebc1ee3be418706afb41c9cc0641897c3f4c90,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0045.jpg,1,2,215683f34a4c2d1667571cce3851aceaf5e3791c75d6d62ae2a6914f21ecfaf7,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0047.jpg,1,2,0eb59e81cbc0a4e54bc221b24621010d652ef532e981e2359877e630fa9becb8,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0048.jpg,1,1,7a4ac0c76f2f0b55dabb464113819569f2cae68903a2139820db638c276139a8,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0049.jpg,1,1,e7b10672669028acdb6ad856d2a138d233716bbc8ed462b89280967008fb1763,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0050.jpg,1,1,81678d655e9c85a49b1d66d4aa3e73f293f07f060968044365ec647a2a90ff42,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0051.jpg,1,1,6c0acc9e6531c1563ec40585a22924171d98b85bd6bcdf6b3db26ab298583ff6,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0053.jpg,1,1,8eb5e79c32f6558157b51d6530dbfb0a6b4d8fa061c2af16104b04be8bbb0c1c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0055.jpg,1,1,f65825f41a0834ccd903f36cb72c2b2261958231acc9428d19c9725b04c3485f,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0056.jpg,1,1,cc80240ceefc79cc24d9213c362ca1364c481e0db50e741ef9d36e270b8f4381,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0057.jpg,1,2,2db6f4fb14a493b8539f8cfea0975dbd822a8d976930c9032917aa3ed7281530,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0059.jpg,1,1,b35d2f18a8d68b4096334acd4288504f51c1dce396f9f5a47781ecfdccbb2675,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0060.jpg,1,0,30404e223a00d265db620932fca99288aae2e50bde2ea2f727bd15e333488855,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0063.jpg,1,1,96a62a382eba54fc4c7692b3aa61cf87b83ad334e0e43df089cbfb54f95eec18,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0064.jpg,1,1,3775a46b1a2c049070a2118ccb05ee0a819b51b268e23f0bc7cb4131cee2e1f7,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0065.jpg,1,2,019419bc001d957748bcea2290b39a5a0aa2f9a9075ef8ce4abad1c301ee03de,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0067.jpg,1,1,5bffc5c3c27074683d218fa79e88d817b8c921215a71cb49fcd6c6e37ad33e0c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0068.jpg,1,1,f8ce8a1f5fc8d3740c2c222a34f3ee9b913c826430908b8297718c53f7299b6c,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0069.jpg,1,2,eec2402f9fc2eb67c3a8297b27be3fb8f5bbd861323636688054a86e8df6ec89,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0071.jpg,1,1,121c93bb204a7dc538674256318b4f5b04ad8299600988379c62f6bfb611a732,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0072.jpg,1,1,7959fca57814573b285eb4291dd855c6ef47e7fc8c1c23ef7c2228fbbcdb9b69,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0073.jpg,1,0,deb633626185c8932bdc081ee5322fd1478f8f8d9f7de87e828418fd3b12c439,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0074.jpg,1,1,fb7ae9e074cb8a7006e475248eb820682f1ef535130d5f5ec7c9cc62898d413b,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0075.jpg,1,2,e53f75d826a05b3c08dfc34ecdafa1479f773e6ebce5328cf186e67b8fca0f88,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0076.jpg,1,0,3beb679fa9e6a7b2c91314835540d8caae3bcc15eb9a8a4960d49cea6e680610,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0077.jpg,1,1,445ce2b60f1c3c899041cb9d9dca105b99292c66095c6fead8187aedeaa75cdf,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0078.jpg,1,1,4639917275d93b2c115b42adbfa7fae366165e60c920a6abe05387863db014cb,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0079.jpg,1,1,d894b810ea1bebe66cc689331de13c5714d8a5a836c40716908c0cd3419358f3,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0080.jpg,1,1,3c9d08aa54cd16325fbfcd685001479a57d40235a8d565e5199e1d453a77d053,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0083.jpg,1,0,69b28a11035df492d33fc214e5893e5aca34340759de95f4529540b49e3127ec,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0085.jpg,1,1,2a336709aa29b68fd77dd7957f7c4b113d681cba1ab878a81e5bb467fe4163fb,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0086.jpg,1,1,4ce6f3493212f59ce90ee35814f2705790c02829135ec0aa955673b60b6969d6,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0088.jpg,1,1,5619440ee00fbb5e233163b7bd50e475625369cc999c6aaba25ebd6c5bce74c5,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0090.jpg,1,1,01c652e60e9390deff2ca30b27df148451ae7bdcab3d2d68f47f3f3c73ef45c9,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0094.jpg,1,1,7f8aef80d53b9a09637ce92cec4543134f95077a58e383b94e0bf1cef964f7b8,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0095.jpg,1,1,d5752a75ecd0a00b083748e6109eb876767fce8b71f727ed75ceadfd97e2ece4,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0097.jpg,1,1,d4ba4a78831df2a840d1cd54702400bf40f307a0b5221fcbb711bbc2af7388aa,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0098.jpg,1,1,8a7f1714f6bcaca84c605524f8d783919afbb2d609d76f0701730685f73d117f,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0099.jpg,1,1,e43a95bc1223cbff9ed865fbbe69884600e070d544ca543fbe125ab4c4e0153f,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0101.jpg,1,1,262a89334e2047904d6b54b1658cba83d12c25fc7bada0d8c7524efc4e44f301,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0104.jpg,1,1,2e1b795e4684079fda5a11bf00167312f5bf588999fa3039b3cf808564b104ff,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0105.jpg,1,1,6e25db7cacd300b0babacd4844b1ab2e0bba1f5fc87d83a0513831562ff08d42,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0106.jpg,1,1,97b2c179ef3dafc50549de8c2aa1b902efdbc68b8420498b15278da463fd4710,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0107.jpg,1,1,9909c0ec52867d6cce2c91fe292347abb0eeedbfef85edad17a760b941dcddf0,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0109.jpg,1,1,07f8f9bf68118ad9363b27c6056561f3e0e8b65a9b924b11778c31901c8a2eb2,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0110.jpg,1,1,391e0914e627b09803b8e10404f4a26ced7c5d3b445596ce3ea0c1852d89d12a,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0112.jpg,1,1,2b80c1f17bbd07ca2ff3bbc114860c92f098f9d70d6d8b2395640b2cc7bd36d1,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0113.jpg,1,1,8642b63575304ffd12a29d1333bfc61bbae1ce755e47f2405f01c864d5bbe4ff,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0114.jpg,1,1,89716383e60ee058e7932a6b6bcab9c9d2f2cc6624becbf94ed93aa1015cdfad,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0117.jpg,1,0,e7ffe69054f8911dd3ed7a697bd7c2112dedef809230e6aa8f4a32e182795f66,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0118.jpg,1,1,3493b6eb6a84110b464f6edcdbff3e15ac1d207781600c313eef25c016dd7a6b,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0120.jpg,1,1,8fd1bdd85617735b4705dd9da2c49db66b584454d06ffe68a00603e98257d71a,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0121.jpg,1,0,2cacb5c5a2f6d08256c1411a48cbce858668cd0e1a8db8a16aa327cef5cebc5c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0123.jpg,1,0,b42e352cedec7ef6a2aa3c5744d63e33dea563e934034b6dd1d6f9db602bd07c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0125.jpg,1,1,27a579316ca8881aedc5b164d39a04fa4eb34e58021e4677c302147af14bd121,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0126.jpg,1,2,fffc3d27cb58ddec577d10e15626651329263b42a527ed19040092bd52939c91,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0127.jpg,1,1,c3e5f59b1940fc22cf2b79bcecb2aaf245352c0a8171b7e1109470519d44cd33,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0129.jpg,1,1,2e2ddc693c41d4ed0389108f5240d8a871c4090afba896fe57240eefa5895ba5,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0132.jpg,1,1,082435cb1670a93b51db818da5eaa756f54145af2ceba8a90c407fc2f810c30b,0
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0133.jpg,1,1,59a4b450a8eadcfbd70c283d1166a027e0ac83b2d219187a5dce3c7fb9ab3e3c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0134.jpg,1,0,aa9eff23b9aac6ac1b614b9a00182cb88836d955267950165ad6324dd57a362c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0135.jpg,1,0,47b1fcf25bfe6bba0a6e13fd8eb6621d3ac7e0b7f3804106e50c4e29fb560b38,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0143.jpg,1,1,66170e36a032b77e1c619233651373368e3d5031ab602034b925adf423eb770c,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0149.jpg,1,2,4cd110bf936d408c0b93a21c0f3dac3cd97cd87567a76bcd7551e5fff0779672,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0151.jpg,1,1,8fd295ea5559cf83754ebbedd7845006b068e4fdbbb3ec0cbd9e1076ee8df394,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0152.jpg,1,1,59a3c6df10c4b2eb359092df2cf7dd00c4e8efea2b6afd2174b42b71a1faf908,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0162.jpg,1,1,1dc8a5df2beb326612673b5f4bfb8956aea2f569635ad70b1c37592be00171d8,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0163.jpg,1,1,f19285e12fcfffcca486613ddbb8d92d8673b4ba496f4f997ed8e0adb07e7913,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0169.jpg,1,1,5c40c4dde351b6bfaad576c111e140a0611311f6ae87a4deace6687b3862da38,1
+data/raw/plantwild_corn/plantwild/images/corn northern leaf blight/google_0175.jpg,1,1,0e1356be02c2d08df47ae4d5b2cb21e334ee482896572fda0542fb918c643ba6,1
+data/raw/plantwild_corn/plantwild/images/corn rust/1.jpg,2,1,637e5771b2718e09cb2e0bfe8e1ed1ab6ec5044039ad88de00e144c8b49f6072,1
+data/raw/plantwild_corn/plantwild/images/corn rust/10.jpg,2,0,351fa0013be80fd416844f5c084b6c9de2f49e29384d81c726e45eb81d3b8c3f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/100.jpg,2,1,41eb19081cda64f4df6ebd0c38b7e113f1497db89e771189cfcd893b3f224da9,1
+data/raw/plantwild_corn/plantwild/images/corn rust/12.jpg,2,1,977264507ce0919d9328b16a4f633a240d644663bb3a789f4ee121fa7cc46e48,1
+data/raw/plantwild_corn/plantwild/images/corn rust/13.jpg,2,0,440258257db8a55009241aaefc5e77cb7951bdfdae2a0d9a60a1f4b30aacbdd4,1
+data/raw/plantwild_corn/plantwild/images/corn rust/14.jpg,2,1,66ae75e8d2496eb23666189b56171c91a23b2d8a868e3bb6e43f492d1acbe88a,1
+data/raw/plantwild_corn/plantwild/images/corn rust/15.jpg,2,2,045cc69db75a4aaf8de3d7d3c3c4dce3062527cb2373561766e043a10ec597fc,1
+data/raw/plantwild_corn/plantwild/images/corn rust/16.jpg,2,1,520417386089a5d8db01ebaf6ccdd4c410318510a8dbee9c5432450f150a3694,1
+data/raw/plantwild_corn/plantwild/images/corn rust/17.jpg,2,1,1b22f9c4fbd4849984b1758abdb04b84f247eb6b55dcff1a0260abb52012effa,1
+data/raw/plantwild_corn/plantwild/images/corn rust/18.jpg,2,1,a17908fe0df47e717a908a48a57c7d8ac1679860ed3907cef53bd86e1d2aa9a3,1
+data/raw/plantwild_corn/plantwild/images/corn rust/19.jpg,2,1,24a8ccf73fefc6d512ba2d243fd51a15e8e04c52aece8fda8417f52dd869cb93,1
+data/raw/plantwild_corn/plantwild/images/corn rust/2.jpg,2,1,326287d48d61a940e9e9986a7b2da1e3ba9152d8c49d23524c59a21f77f3f053,1
+data/raw/plantwild_corn/plantwild/images/corn rust/20.jpg,2,0,7ca76ade3b5eb537e8a805c65731545c0b15d37e8d1e8ef92b64a1c36e9ccb6f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/21.jpg,2,1,12ce914a1f00044f5c44718b000c71ebf480820a82bcacf47cff1db21aaa311d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/22.jpg,2,1,a8d3f11eb583c6c0a2028a6e83ea925546e31c7c9b815d536065ecacecd5d9d5,1
+data/raw/plantwild_corn/plantwild/images/corn rust/27.jpg,2,1,bad7a7c6d59876913caae220668c800981bc5c97b71cc04a824515052f49a210,1
+data/raw/plantwild_corn/plantwild/images/corn rust/28.jpg,2,1,63a5202b1e283814fcf084b77ee7ae55d302ef513ad2ca58c856f0009fc1670e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/29.jpg,2,0,a570226818f61280d52dcb416ec2a5aecad8cdaea18975d16e9776ed84af1378,1
+data/raw/plantwild_corn/plantwild/images/corn rust/3.jpg,2,1,7938d1895655433b1a7d544bc3c212d66b339ee79088701ba6d44a957d7b599e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/30.jpg,2,2,a5e991d178a68e1a1e3d528a5b42ae50f5325206489de985b5bf3ba669db2e9f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/31.jpg,2,1,98d95f5920e1bad3fbcaa51b76dfb651f3a768e1ff4fdc99d495b17b58738f2e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/32.jpg,2,0,15f84679faa31ee02690e76c68d6da52c404a0f7f2428954838b24f4e89b2628,1
+data/raw/plantwild_corn/plantwild/images/corn rust/33.jpg,2,0,dc38ed500d2711efb66e8e23d6c69b28fec1590c7000a1edcf12c763498a587c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/34.jpg,2,1,2383f698e0ba8ec8b1dc0bd56c9a701824d9b5b285093a05bd1a3d49519d8de6,1
+data/raw/plantwild_corn/plantwild/images/corn rust/35.jpg,2,0,228479734710267f67f56ab08839440e5280ab846d4865aede3a06b6006ce5ad,1
+data/raw/plantwild_corn/plantwild/images/corn rust/36.jpg,2,0,852ba73e28f6a3c3b9ec93af442b89be8dce00c5cbb7023befbecfb6f428c2f3,1
+data/raw/plantwild_corn/plantwild/images/corn rust/37.jpg,2,1,25e04fe75d9ff985cc3cdc671ca13e8980fe68c4d91ca6eb29ae05fa19a074be,1
+data/raw/plantwild_corn/plantwild/images/corn rust/38.jpg,2,1,105a5ed73c6803c2d5e234a171c366e0b0b894572b3fb0674b87ecccef8cb9d4,1
+data/raw/plantwild_corn/plantwild/images/corn rust/39.jpg,2,1,1999b7a35f4f863b25562d956834a7e17a605fc76e9c57cc5c8dbde633a1450b,1
+data/raw/plantwild_corn/plantwild/images/corn rust/4.jpg,2,0,a4c05c4d85f65eef14a4ab368621d164d439248f594c1899f7cb9d44cb647db2,1
+data/raw/plantwild_corn/plantwild/images/corn rust/40.jpg,2,1,7ad1f1f201669618f89232f168365abb6c81303f52444226409dce56ddc643d8,1
+data/raw/plantwild_corn/plantwild/images/corn rust/41 - Copy.jpg,2,0,0b3b2c550a120c615723ababc8069ea23ca99a5694612d5568da282eb230c835,1
+data/raw/plantwild_corn/plantwild/images/corn rust/41.jpg,2,1,a731ca52b8037e390552d430d42cc0549bfa0197cd6fed26ecb3e3e4330b417b,1
+data/raw/plantwild_corn/plantwild/images/corn rust/42.jpg,2,1,0d6c25d6eafd9853993088ed1d7bbd335edf7c54500d074f4d6776d689d3d8b4,1
+data/raw/plantwild_corn/plantwild/images/corn rust/43.jpg,2,2,40727044639d1cfe9b013af8f1e4fb55636872c229ff2836896a8aed73655c76,1
+data/raw/plantwild_corn/plantwild/images/corn rust/44.jpg,2,1,0ba5a1b1cfb0d4ea44f8f26b0098c900842570f17b148c0eba3986d5308db2a5,1
+data/raw/plantwild_corn/plantwild/images/corn rust/45.jpg,2,1,72bcea612aa5123c7a3a024006b91187cadd65ab90fd4936264c8e004b4b1410,1
+data/raw/plantwild_corn/plantwild/images/corn rust/46.jpg,2,1,679ad40689d19606b16b5b4b5d2285fb7a540e9a507578599c20c17fc4aca4f7,1
+data/raw/plantwild_corn/plantwild/images/corn rust/47.jpg,2,1,625f3a9669614a5385e6fc82107d5e53a35ae0cc3f17bf32bc48b9d7292ac38b,0
+data/raw/plantwild_corn/plantwild/images/corn rust/48.jpg,2,0,d830cbe25b4886db1264bb78cad6390cd699f9ea9e98da4360812212e45e5f8e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/5.jpg,2,1,cb79583944a8f4d3e79e068373b9473f2b69cd9d13d9ff85bbc65119852c1a16,1
+data/raw/plantwild_corn/plantwild/images/corn rust/50.jpg,2,1,50332195d1c537d0793888e99004418d50cc27c33d5ce51a60bcf805ac797989,1
+data/raw/plantwild_corn/plantwild/images/corn rust/51.jpg,2,1,7352c45739fb0cdf6521e321ad260982e217928694406a4d2697ea5e4f4f5ff6,1
+data/raw/plantwild_corn/plantwild/images/corn rust/52.jpg,2,0,da54aecc71ffcf20964250f465cc21c0d4210e16dd8dbb05ef629d684daff6a0,1
+data/raw/plantwild_corn/plantwild/images/corn rust/53.jpg,2,0,81bef719ebf9c6a9552843814eb12442d47d34398487937446bc4401226bcf88,1
+data/raw/plantwild_corn/plantwild/images/corn rust/54.jpg,2,1,756101cede75fc040869f612e467e6e4bd098a6f84580a5c5098961a10e54cfa,1
+data/raw/plantwild_corn/plantwild/images/corn rust/55.jpg,2,1,9b7e7cc02d82672092ce6c00480c4881a289677364e9a95a32d8ea3fb5799173,1
+data/raw/plantwild_corn/plantwild/images/corn rust/56.jpg,2,1,a7d9dda412aed0e10bc85a34234dce73548ae0f72cc25571061ffeff2f280906,1
+data/raw/plantwild_corn/plantwild/images/corn rust/57.jpg,2,1,e83250c23f539da12e96060c0e0e79c2f9441e03840298546cc6a39e40e0964e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/58.jpg,2,1,7f079c397a651a7f2f7d94634f316f5190eb252fe6c783603473380e305df168,1
+data/raw/plantwild_corn/plantwild/images/corn rust/59.jpg,2,1,bfa04653215c4d7acdefe5b3b3296ca7fb678ed43ea2dee03e3535b9f72369e3,1
+data/raw/plantwild_corn/plantwild/images/corn rust/6.jpg,2,0,81f86bd741da89220bb0f71636995a65439704187ba6091020b82704c6e3fbb2,1
+data/raw/plantwild_corn/plantwild/images/corn rust/60.jpg,2,1,8dfeadf9295d4946ddf8958f85adec6771bef9a5eb1f49568c8295ba50f8fdce,1
+data/raw/plantwild_corn/plantwild/images/corn rust/61.jpg,2,1,c34dd939307809520771bf40d3d975574bdebf379551755c9faa8d6e8c378090,1
+data/raw/plantwild_corn/plantwild/images/corn rust/62.jpg,2,1,b63f389350604aaa180c95829a2ffa0f79bd29d48e5f3607751bbf435c6dee8f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/63.jpg,2,1,d75729e988728b87caab609f7b10a3d18e6eed652623b5c6b95fab325a8dbc53,1
+data/raw/plantwild_corn/plantwild/images/corn rust/64.jpg,2,1,df5d29f8bc9444fd3aa3e99d385d97051da61ad0f2e219e49910c01a9e2d3bbe,1
+data/raw/plantwild_corn/plantwild/images/corn rust/65.jpg,2,1,2008ef12792f52371ac41e54cb20c623db9d59ae46cfffb999c4616e5c63cae3,1
+data/raw/plantwild_corn/plantwild/images/corn rust/66.jpg,2,2,766761f4ee83e337ff29f3ada9dd3f21498de276c9d84c2e95315b55fe7e667e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/67.jpg,2,0,75f98f18acaa9afade87eeb4be311dc57802e92c6c84a3d5535a8b4b80866d6c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/68.jpg,2,1,6c985179ee56e83e532274ff3bfa8472f8e180dbcd1f20096515c9c413a47f41,1
+data/raw/plantwild_corn/plantwild/images/corn rust/69.jpg,2,1,17750fa667e4703397b84a9b994ae1dc890d307a219872442563ee881aab4fff,1
+data/raw/plantwild_corn/plantwild/images/corn rust/7.jpg,2,1,4137889948e2513fa306bf8132ac2c9f4b0fce72f7865cabed361bef262a706d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/70.jpg,2,1,4b2ea00d0c8c6537ea64038da3a448cf8382d8ab653677080f8b84f4fc64fa88,1
+data/raw/plantwild_corn/plantwild/images/corn rust/71.jpg,2,1,a7c4de8018f6ddd2a3f62ac29dfb9d9a72c15984dc8b8a229d5e1d9b57a6df61,1
+data/raw/plantwild_corn/plantwild/images/corn rust/72.jpg,2,1,31ed53846beee08b3bcfb70bd3481357e28206d6a2c85237053e2b8f91a6bd0c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/73.jpg,2,2,4d1f2f3b86e0ddcbcb77ae0ac0a4105cb809cf5447ad0994e5bdc37b5f65187c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/74.jpg,2,2,456fd579c80a3fd4037d5ac53b6f0def092edbf3c54735d1d20f14d6c36aa505,1
+data/raw/plantwild_corn/plantwild/images/corn rust/75.jpg,2,1,7b9f4e8a178806bf6219ca4c4f94d7cd6caacba802ee373d74ff3aa918cf2a71,1
+data/raw/plantwild_corn/plantwild/images/corn rust/76.jpg,2,2,3a374e28591fec1854c829af1927b74b297a3ea459e1122df9db9ff344caca5a,1
+data/raw/plantwild_corn/plantwild/images/corn rust/77.jpg,2,0,deeafbd5d3a60033e8506a04de707ac902c513e0e927669899770baf2eecdb65,1
+data/raw/plantwild_corn/plantwild/images/corn rust/78.jpg,2,1,54b2df833a5939db6758db04df4b12ab69a39ba989420f19c399e1976e44062d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/79.jpg,2,1,c8f622983699d14355432837758e2bee0faf4fcf36d727b8527bf101dffb63f1,1
+data/raw/plantwild_corn/plantwild/images/corn rust/8.jpg,2,1,f18eb22e64fcc8645e0ba81dbe41b7fc0edf64ecbf667312dd1c3066e5864869,1
+data/raw/plantwild_corn/plantwild/images/corn rust/80.jpg,2,2,4fa08336e611c6efe27e2b3c0c07cbceb079193f363d190041c82cc1900c723a,1
+data/raw/plantwild_corn/plantwild/images/corn rust/81.jpg,2,1,5b308cd55247863d9d1f177f21a42224eddfa113cf895d53197fe6e96815060e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/82.jpg,2,2,1c6c422e7ad44993dfa1e3052f61b574b0a147290993c59e09c0b4f3a942c2c7,1
+data/raw/plantwild_corn/plantwild/images/corn rust/83.jpg,2,1,61745dae9835cb6756918b8f805ebfaea2b111d2244578c56f48447d3161e332,1
+data/raw/plantwild_corn/plantwild/images/corn rust/84.jpg,2,1,cbfcc2f5b6e6dedbc287792b15f7f7a7c34dd710b27476dada92b8031283ca14,1
+data/raw/plantwild_corn/plantwild/images/corn rust/85.jpg,2,0,98e9f1539738a75856ac6bce13be531b4ad2513b3dee9e293b91497e6135e9e5,1
+data/raw/plantwild_corn/plantwild/images/corn rust/86.jpg,2,1,35e8242c13fd69a941a55259ae9ea04d83ffc741148a5b2d9282008b08d7813b,1
+data/raw/plantwild_corn/plantwild/images/corn rust/87.jpg,2,0,129f0f6e6e4b357996d4c684fc47660ef70c6b3e9fa963b1d243e9fb27bd8c74,1
+data/raw/plantwild_corn/plantwild/images/corn rust/88.jpg,2,1,6558b25b3db1d0b1af139d2437f8d93f09f18d92072085394019711016f1c13d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/89.jpg,2,1,1e6618ff12dfc920801a13435cf5d72d9f28ed51cdc2fa42bdf77c83d6f1aa18,1
+data/raw/plantwild_corn/plantwild/images/corn rust/9.jpg,2,1,0ac7d38ce9baf477a1336c2485208485ce66e345f80d4e3956936f80ca548ea7,1
+data/raw/plantwild_corn/plantwild/images/corn rust/90.jpg,2,0,71b589a1844001dd118a35419237cc4e91ac13ba358e8a2e03633374d2f8b883,1
+data/raw/plantwild_corn/plantwild/images/corn rust/92.jpg,2,1,fc7fce442ade96d4574f16849a2474c1ff0c97427d3608f40ad7cc1b28c9eb92,1
+data/raw/plantwild_corn/plantwild/images/corn rust/94.jpg,2,2,97ad8ab1645cc9081b9d8227589c7405056cb08460aeade4e681447e08ebd7d9,1
+data/raw/plantwild_corn/plantwild/images/corn rust/95.jpg,2,1,b827dcef5091bd6f7946ad0c4600a1e8330b07a854373911a4b62410aa481526,1
+data/raw/plantwild_corn/plantwild/images/corn rust/96.jpg,2,2,859d41eee9e750c4296a1b2e7e69a957e8e137ba6e710634141e3feaced2388e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/97.jpg,2,2,9b61354e4118927e59af5bfa6b3d47d2eb6991ffd5baecbbff78fea4577bf68d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/98.jpg,2,0,57b6ad730c28fc79a94b1f0a9c3e823f131b89a4f2504e675d57e2cb34493287,1
+data/raw/plantwild_corn/plantwild/images/corn rust/99.jpg,2,1,40f75736c113ffc005a7f131aae848799ad3fe69df107ffbef2349a75f65af94,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0000.jpg,2,0,6616775f17984307892f882d072245455126173502bda8096fc1dbd8028c76fa,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0001.jpg,2,0,28b3e10904a27fb18e7fb85448bfd668b6c1fbe2091d7f824f67065e1d72decc,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0002.jpg,2,1,43bd2b0948f4612a5261bef5ff9a01e6df00c600846855de92d3880127d9f6fd,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0003.jpg,2,1,30ce831a5488aca0d4ce5352fca1c2a10491d8e1a7ecf1a031f2dbc8b5c2cd04,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0005.jpg,2,0,4fcf65838ff60877e8cbe3dd73e61480f1357b32b234e986c04e9e42d1e2cd95,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0006.jpg,2,1,ba9387abc45e7906047f7b5c0c41634a0062753d9dcaa7c72c84acd234d00d21,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0007.jpg,2,1,b55c708eb9bd0ab194282f2d8f2ecb09d06f11f40cd61bd60a0f1617ce63630e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0008.jpg,2,2,f70419be383380a558fa4f8770a1acaa1babf5609c2449ff28b711735423d0f6,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0009.jpg,2,2,5e508b274cd87cceae41852dd31bda27b5fb4cc5bfb77286e199c8a82673f488,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0011.jpg,2,1,cfb4471f8728730748d22e4bb9fd58114ee7a464c4e9791840de461b216eb6ce,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0012.jpg,2,2,f4e91b5f92096af290e0b7502c3df94e89809ad2282693401dc4db1b4e30307e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0013.jpg,2,1,aa3e9909c136635cc595e71c375577b37984dbba3d0ba3b385f7f1b9a236253f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0014.jpg,2,1,faf0bcf7583359a873b4a49ed91dd6a8311b02b1477e1adb9dbb635a252b2980,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0015.jpg,2,0,b27efb851ebc9ae7bcffb8ace0d96c5d5c62c1efab66f9f4ba96b08b6508a045,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0016.jpg,2,1,82162e6f17d159ea6f012b15efc6ca8f7af2a06c3dbf8cc3f83c14ff098f521d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0017.jpg,2,0,146d2fe07806d71998b8668569e6683b25ec5367c7bac9363a5dce1519befe9c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0018.jpg,2,0,5a46134fa158f5ac0009a28c8010c3cb69320dd3f49c1348a5aaa1c443041ea0,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0019.jpg,2,1,f7d471393b23a984ace4a38c976389ac1c5d4a508b8c6b4bf77642eddf0d431d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0020.jpg,2,0,a4369a0d5bb85b5f5b88f4f795198f941406539e1d9fa856b20ee09850e6e855,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0021.jpg,2,1,9243716039bd4e41365ed567b2c20907ee5cd47e6d97b7c9583c5b54ae5009d1,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0022.jpg,2,0,e3b6489c47ddd11ef2cfabc8cafdaa19a84b10c7e6792646446ef30f098715bd,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0024.jpg,2,0,eb772156e6824f4785852e30ef62721f6f89efc5f66c7b8d26ae59f11eeef830,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0026.jpg,2,1,880669c2ab1fcd408d757486c9c6f061630c52c701dd1f9dc9d0c6262d4d1788,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0027.jpg,2,1,7858b1523483b961cfb09f917146949d48273717dd67638e18cfe69c13253131,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0029.jpg,2,1,52d3e44fc02a83ce838df232a302419bd402bca7991796a53a2c1b3cf129f111,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0031.jpg,2,1,6580751292609f0d3f53b4ed755e2b24969cb68c1788f5325dcadb1d84e29a2f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0032.jpg,2,1,e30ac7d15cc77343562e2190a352cacbcb8452621829304569999c465bd64848,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0034.jpg,2,1,84eb629c35d4e6348d397510d861ebd8baf11eb08c2db13a2502a6e78fc70fdd,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0035.jpg,2,1,ae8b76b48f93a47cc1f8c12ea5f50b9b09ade0d6aa30b2d4ebd9d0286e083a6e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0037.jpg,2,1,53ab09405fcdc96031f196cd4474417c8103f8a4bbd74bdf2863e24b7b595a88,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0039.jpg,2,1,5c975b6ac19311fc010346b0d86d7f48c3f18b121338e48489bac8c86a09a0a2,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0040.jpg,2,1,4a69a93b14a7070ab1e8a5dfadb3795ab2178a50e6671bd414e02262e6a7eabb,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0042.jpg,2,1,c0cc58aeb9af270e4d51f39282c0f15d17d5dda67114ceee200e47ceab9b8c95,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0044.jpg,2,1,e4a69607f77155d050acae90516da2e847fd59e36906012bb9dd75f7d26a80bf,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0045.jpg,2,1,0331a00b90c23bc691f57578cb3b6e702a7924c0234c03ff30ed655ec541d357,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0046.jpg,2,1,156a40efd5e4766253ef76f92a765479673845ec1b797445cdcf749646b5c9b7,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0048.jpg,2,1,605f7be2f969942ec5e5a17be5c8300f4b442954f5d9fc8fbe02eec1bc3f62a7,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0049.jpg,2,1,960fba34424a430ca1d70cd98a1adf5db11f079d4e68b6af5ff063474856eb9c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0050.jpg,2,1,84c115e1603e4734f254401fae66317bc9147b94355a69d6147a7837194120ab,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0052.jpg,2,0,bb85e1492cb42390d5d2095f7fc2963d7a330f65a975c0d4b63f90b420193a03,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0053.jpg,2,0,242d9e31cc6c41c3b71eb2fa3577f8dba5e54d236c56c8442f93061495b1f566,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0056.jpg,2,0,b731d824e1789be385a3946890a063d5cd08217a92d15aa7578229dc23e36616,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0057.jpg,2,1,e362a39a5f6483548a1cf6942621aee7e21d5b65bd8c29b0e941552b4f679b79,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0058.jpg,2,1,376de5dfd4c5f0385e483a9a9e8b64d58c271787b9c0f72da2713cfb08ab702d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0059.jpg,2,0,02427e7e395bd083855976b87ce5f1e9e49165d4b3b9d4a9b94fe4051e88d3c1,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0061.jpg,2,1,f5ccc62fb3e405aca8fb4a09068ee92a3662b4a7ef23763cd434d3ed69af786f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0063.jpg,2,1,975de705dfced69bf5ce68fd9413bae31eb7d27bbc3f9915a35a24b8793fc753,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0064.jpg,2,1,d85dad59c85784f4d95aaac24979d768ef0dbbff44bf8f875e315c403ea55ae4,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0066.jpg,2,1,85161728c306773fae03ca4d1dd3bf950dd6e2157031d8c3b8cf7fc461d44f70,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0067.jpg,2,0,b3c1640155da68dd8129ee74ef4b9466ef1051f780ba88f4912497c4322fbe89,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0068.jpg,2,1,a6d3e9439aa55e6f89d039020d52463704a6c8b09d54caca04183f75b0e68017,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0071.jpg,2,1,72852c0f17f50d41ec14acd906ed69273c9cb5b9188ab819e61e184a09c340ba,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0072.jpg,2,1,cd6419eff3d3b2aa20ab931a30a249e808232131b7f3ca8fad08dc65f255e1bb,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0074.jpg,2,0,71eea5c2390b4da8b7ffff333b306236944de1b75c4e109edd6c7fb06f050385,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0077.jpg,2,1,aea6c0ca1aa122863dbcbb482c853bf5dd361125945b1e59b154c175736f48ee,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0078.jpg,2,1,c09334955bbee5ac4eab683a32e392db0bbc6508c53afde139c9c300f4fe778a,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0079.jpg,2,0,8b0e32d781eb410b45ee7a8ec6ad6ba43a114db913e2a5092afc9414395bda10,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0080.jpg,2,0,f0b93f8c20314d20bbf136a96416d8068b7a2d1acd477082a497149fb5e7f46b,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0081.jpg,2,1,798395000ba864a72ce859c81f313f260a5c6d9350e605bcbc63b32c41084169,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0082.jpg,2,1,fbcc7e9ae0f059c3b2dfd1b1965394822f690f56a1d1dbe6f681612946d32643,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0084.jpg,2,1,415ff108da53521cb8edc329976b0bf265ca1c35dae8d87267f8cfc968ef1c86,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0086.jpg,2,1,b195df94a98620f13a33061a8022b4c57361437a3ad603bbe74e73a5674c489c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0087.jpg,2,1,558f6503e6eb4ec25696a40a76703e70951f66791122f4c8890ba141aef2bd2d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0088.jpg,2,1,e2da3d70d5c11f3071c8d760b0bde086d8368b96433723377378c2408d568af9,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0091.jpg,2,1,4474a08ff1390c4abc58a9cf23420d6bb85a8916d18b969a869efab64ea7896e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0092.jpg,2,1,8411bd3b312bf9ac17490aefd16951b92c27788f4b48da9dcc54464774539d0a,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0094.jpg,2,1,2c64323cd60c0248a60f67c775dc4a26cc030393b45ee4dc6b8e6b238424804d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0095.jpg,2,1,ea3f6fd9217e6217e81717261a4cfa8eeaff7253cff2ead6b7486aa56d79b745,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0096.jpg,2,1,04cfdf7dd6686ca8a6dccd08c968df23ec7b61742d7c80ecd5a53aa7957cdf19,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0097.jpg,2,1,570ec67a243b2c5088fe968b48c0c6810a41ac8d8f3a24314bb781d9ba2fae98,0
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0098.jpg,2,1,9226c551aac9a3f88c6d5718a69df86e0ff0f7f842997a9c21ca2faee0d1517e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0100.jpg,2,1,02bb42c4942ee25d9472e4f963dcab233aab4334e518955920461106262c5333,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0101.jpg,2,1,2d3ba4cd5ffd5a25db575cbaa487847f3acf8f5d377e65d2f7af0469ea1828c8,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0103.jpg,2,1,83030330db875ae4d298683d95da44cc66cc0bec73dc3cdb28ab213c2f85a94c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0104.jpg,2,0,d1b8ddf485806aae9e37568b6497a0b5e970a44309b4544d58a4fffbc525af7f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0105.jpg,2,2,de379d4358356de272c96d14e2940fa348871389caa3efec148963059d22c5e4,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0107.jpg,2,1,62eb4941773df7a250cc3983abb5e1ce87ef0a37f62dfee02a4ce09623a0b106,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0108.jpg,2,1,3695db6b103efcfa33e2a72689c2e1f047839ba5b38cac118a5136d33e1911a9,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0109.jpg,2,1,5752263e6fe17e5d6f2aaba429774bed1e67b534d8ded562adb52aad2e5161f0,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0112.jpg,2,1,42340685a565ccdc6e2806fcd7e8cd05e321ac7dede0ad5d1112d814d4671347,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0113.jpg,2,1,03d5073fa9b18b0cb5660f2c8912b3cb64f7466218b92a1bb52fe94611b489ab,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0114.jpg,2,1,8cab174d0ffdf4415e44cd9b84f41e74ce742eb2a45d0159250e60504bb90f0a,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0115.jpg,2,2,4895fd8d8c4497f6e6ca40fe28e9e326f470e9ae2717a5fe1017e6fc5843fad2,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0117.jpg,2,1,76ad8979d32181e7cddcd7814becd6aec97d6053202bd5060a69ee3ffd2d4375,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0118.jpg,2,1,57c9653608c382ddab4362d9632767fb1159c93c1d78fe33265703bb9466aa53,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0119.jpg,2,1,dc9162b151d5d380baa6d90df5f86729279e87ca0bd545ff68769bc9ef0d5155,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0120.jpg,2,0,aab510fc9262402e27d4d7a83d50f185c9c60d99800474ec3bedd8d7cf2ea0ff,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0121.jpg,2,1,44a95362da54605d913ca79391695a9d21fcc87a4491d34d57727d25bf5faa1c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0122.jpg,2,0,85d33eebd672f707e3f55216198be7654f381abd4ff2e2bdefb792ea80d49d30,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0123.jpg,2,1,9fbdd4321552fd4c6ee2ad66588715716afd6cf3f0c7a8d1daf79b5b9d6b69f0,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0124.jpg,2,1,0e69f6cabfda038249c7ce0fc3c4d52735ac02b6ff6b2a021214006115d5b6dd,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0125.jpg,2,2,92c6741a2b662d8e14c429ac3e5c7eb293d94975aadd1fcc78f5e102a383aadf,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0127.jpg,2,0,808a57ec77616cba11d21ac500b50f8f64710272c71837845ab09b37b5122da5,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0131.jpg,2,1,0f56d25a1332c01ad9cc98c9707e528a4b57d38e16709b4fa49e1d0f1121f955,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0132.jpg,2,1,bde9d3b29e29f2d3f286de82580567deaf63371e1c1aa54457f81cf9851ccb25,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0133.jpg,2,0,20315f411a0cfc56a24d2f3a7186811cafeb2bd4e9d3dc0bded5aa69047085bc,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0134.jpg,2,1,45458da74fca1b4ac77019b2d1ccb6e4f29353d44b50919b6b722f5e4f94f5c6,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0137.jpg,2,1,7d7af762e60dfc9c02a93b87be76934ed91891c9620d30fedbf89c825a40d888,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0139.jpg,2,2,4a5a5cf50c4a0020de670e8eb15b944935bba7faf2e4ec5d21f02f02a735cad8,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0140.jpg,2,1,4878152ddf9a92d49d28c17f12b30be6c5a93468e9e52ca81e172f348753ec8b,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0141.jpg,2,1,e4da5449f2594956c32b1b4026318cc21d6d28948e4ea7c055223c14e28ab464,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0142.jpg,2,1,f8ee56070ca09cd37139130898e1bb368df9a5be459f920b3a36b2a4cda572ce,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0144.jpg,2,1,fe857882c23f79d33520a19bad92ae3614503af8cf23790a7f258c9691faf977,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0146.jpg,2,1,1a88960a23b1552ac9fb519eea98bdab65da5e4336774506deb597668111a906,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0148.jpg,2,1,6617916f4d4076ad6db6b0875896ef37eb120f2c37f2c843a3ce0e70a09eb226,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0149.jpg,2,1,b42f88d703a82a89607e21dd8e9410a5b8060c2357e1b80b63009cf0938404f2,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0152.jpg,2,1,1e9755cebda9f9d386496230483e9faade86b5a4a370375335c598a31ee961e1,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0153.jpg,2,1,dcd95eb7f5d7ec990656d099677d2b9543e97417d17ad41d50ed5dbbfc9e9d55,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0155.jpg,2,0,c615a469be6d423e64112b823f850bc5b74c0b993e03d5ab98d53f628d6d0aac,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0156.jpg,2,1,8936aa9869337aeba8f79dd7b20d797882c7efa5038c27ea2b7ca677f7bb9c50,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0157.jpg,2,0,c85edccd2dc9097678b4ed37835aafd4b3494e965de8a37a0eed238b0a728674,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0160.jpg,2,1,ec041a999351bc48d9c14ab05b767e3f3dce6d19e2af2523f95a741fcca8111e,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0161.jpg,2,1,469f7960bf1df63a53c5cfc51587cd354e677b4f0eae18e52f0ccf08302850a3,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0162.jpg,2,1,d38f7eda74062561ce8212604c68091ac4aa3e35dedbc14ce8a5a3468efcb02c,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0163.jpg,2,1,d9d16e6c3a2798d487dc32aa80879f14f006257acdc2fe33c6d8548ee16c5ce6,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0165.jpg,2,1,4b7edc30de26c6409c50b9f4ada2dcd8c84221a6043eb533d3b6a306000b06a3,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0166.jpg,2,1,50cfd3469e014aac799f9259f95d9bd3f6e0369d486bffbb0453717c62e2e89f,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0168.jpg,2,1,169576658ef7ad99e191bc87edbc76c754375d586941d9c28e7c7db4c8f72266,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0170.jpg,2,0,e9de870cc61a97cef82eb184bce9d8cb8669413ddc5625b92f2bc1c41effeaac,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0171.jpg,2,0,0dac20dcbd1454ebef82b35b95d8a8cb16575fd8e86c25d9072da344d9d418b0,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0172.jpg,2,0,0b45487269d3df5174dc01c0c33b73a8852c730087c5371ecb699925bdaa9aad,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0173.jpg,2,1,33cc84f6ceb8e11f012f7ae6424250fb2a03ff432cc0e39749be223f6dd0a70b,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0174.jpg,2,1,4d1920147e7ec3f25a95d788b9fda719511acd2279d149f8952df5a9b068ca73,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0177.jpg,2,2,26696712161efc6d577aec46be2ad0d39ec8cc8bacfe4a057dcb19b262629640,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0179.jpg,2,1,b55da04dd7d315b023df93305e52e09c7bd237430535611fa41c39be968ff3a2,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0180.jpg,2,1,d08a2144a9580fcf01f3f066a7613864b8662dffbc5b6bec708b54d07236db45,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0181.jpg,2,2,cc8cccb3466547cff235176909ce15fb5f0f6735e8dcab0bea40854b55088eb6,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0182.jpg,2,1,4e7c3ce70138e3b538938dd9bc3a1458d5402be0cad0ecc1759d889286d1abdf,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0186.jpg,2,2,574cf5b0e842683e8eab07eba3f73ca0ec95656bb2e790ec98dcf88f5fdd4c2a,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0190.jpg,2,1,c7aa9ab648d1468be0212874029d1235cb33d4d2d47a9dbbcf6c3715942507f2,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0191.jpg,2,1,67223639add37e10c51ae1a8e50a6c38f9ce4adbfe0ed3c052a6126bb889af73,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0196.jpg,2,1,3003406730d2256f49c5266c261e3f56327fb0b0e17a57d2d6a08425c8fc98a8,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0197.jpg,2,1,afc58ecdab719b43b0a512e0be07cf2e076413d2f4383a252cf6b255f281bad4,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0202.jpg,2,1,6233e8ac44aa16a956f02e853662fd5b8a7eedd0289f462c8e91452f21302722,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0203.jpg,2,1,b1fc2a07dcf2a0779ec0aeae5004be649e7e286320da28c613c855602c44d23d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0205.jpg,2,1,6f55193017c706f58aaa6c8c3ca85fcdfdedc726596d1eec30bbb0fcf0b413b5,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0207.jpg,2,1,34503331b6f1a6065b87bac56fbe482b90cd97d9f746612a6653090ea60468c4,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0208.jpg,2,1,e2f52a4b036b8609b7518fd8878297923e35e93762c83e6f284789f3021de0db,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0211.jpg,2,1,6bb79f3da21593b81e9a03b6052d0408a6ee6edae9698014048866e156b47443,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0212.jpg,2,1,de355fbd5dd77516cea686f31bbf6fca94352f9a4de0e191f3f663208f1afb27,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0214.jpg,2,2,a1ad4c72774688a4ec271ec5da01688679b57b4e2a2c73deb532424c85a7488d,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0220.jpg,2,1,0722e27b4d1cb3acac70709888f526b953b1763be4faf5ed48c6bb85bc72ced8,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0224.jpg,2,1,25d84f401230627b17240c91ab7bbd20453105d16265220e3cc16a68afe429eb,1
+data/raw/plantwild_corn/plantwild/images/corn rust/google_0227.jpg,2,1,8fbf4bb30053230c31723acc0494cf3402d25c469a13385c2e5ed0014a793a18,1

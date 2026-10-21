@@ -34,6 +34,10 @@ def load(t):
         sp=np.array([sm[str((ROOT/z).resolve())] for z in ps]); tr=sp=='train'
         if t=='corn_plantdoc':
             f=np.load(ROOT/'features/dinov2_small_field.npz'); Xt=normalize(f['X']); yt=f['y']; pt=f['paths'].astype(str)
+            keep={}
+            with (ROOT/'data/processed/plantdoc_corn_manifest.csv').open() as fh:
+                for r in csv.DictReader(fh): keep[r['path']]=int(r['primary_clean'])
+            m=np.array([keep.get(str(z),0)==1 for z in pt]); Xt=Xt[m]; yt=yt[m]; pt=pt[m]
         else:
             f=np.load(ROOT/'features/dinov2_small_plantwild_corn.npz'); X=normalize(f['X']); y=f['y']; p=f['paths'].astype(str); keep={}
             with (ROOT/'data/processed/plantwild_corn_manifest.csv').open() as fh:
